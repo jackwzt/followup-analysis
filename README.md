@@ -2,11 +2,11 @@
 
 This repository contains result artifacts from the follow-up modeling and analysis workspace.
 
-Uploaded content is stored under nalysis_results/ and includes aggregated result tables, figures, reports, and summaries from the analyses.
+Uploaded content is stored under `analysis_results/` and includes aggregated result tables, figures, reports, and summaries from the analyses.
 
-Large model-fit binaries, raw data files, trial-level derived datasets, posterior draws, and scripts are intentionally excluded from this upload. The excluded large-file list is recorded in EXCLUDED_LARGE_FILES.csv.
+Large model-fit binaries, raw data files, trial-level derived datasets, posterior draws, and scripts are intentionally excluded from this upload. The excluded large-file list is recorded in `EXCLUDED_LARGE_FILES.csv`.
 
-See MANIFEST.csv for the complete uploaded file list.
+See `MANIFEST.csv` for the complete uploaded file list.
 
 Key included result groups include:
 
