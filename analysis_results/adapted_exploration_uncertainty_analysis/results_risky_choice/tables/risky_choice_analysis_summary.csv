@@ -1,0 +1,2 @@
+dataset,n_rows,n_participants,n_tasks,best_repo_style_model,best_repo_style_AIC,risky_factor_AIC,top1_conditional,top1_fixed
+non4060_8tasks_risky_choice,19360,121,8,V_risky + RU_risky + VTU_risky,25967.80350968798,25702.806202150816,0.5919421487603306,0.5647210743801653

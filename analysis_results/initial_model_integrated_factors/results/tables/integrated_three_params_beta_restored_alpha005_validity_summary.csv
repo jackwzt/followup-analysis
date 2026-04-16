@@ -1,0 +1,2 @@
+alpha_threshold_for_beta_restored,metric,mean_keep_ratio,q05,q50,q95
+0.05,keep_ratio_abs_alpha_gt_threshold,0.9933538223140496,0.9855371900826446,0.993801652892562,1

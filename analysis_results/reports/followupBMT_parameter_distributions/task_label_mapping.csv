@@ -1,0 +1,9 @@
+task,feedback,frame,time_pressure,task_label
+FullcrossNoTimelimited,Full,Reject,No TP,Full | Reject | No TP
+FullcrossTimelimited,Full,Reject,TP,Full | Reject | TP
+FulltickNoTimelimited,Full,Accept,No TP,Full | Accept | No TP
+FulltickTimelimited,Full,Accept,TP,Full | Accept | TP
+PartialcrossNoTimelimited,Partial,Reject,No TP,Partial | Reject | No TP
+PartialcrossTimelimited,Partial,Reject,TP,Partial | Reject | TP
+PartialtickNoTimelimited,Partial,Accept,No TP,Partial | Accept | No TP
+PartialtickTimelimited,Partial,Accept,TP,Partial | Accept | TP

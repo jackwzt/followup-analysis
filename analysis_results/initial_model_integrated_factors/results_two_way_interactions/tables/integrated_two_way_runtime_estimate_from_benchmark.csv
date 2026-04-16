@@ -1,0 +1,2 @@
+benchmark_iter,benchmark_warmup,benchmark_chains,chain1_sec,chain2_sec,median_sec_per_iter,estimated_full_sampling_sec_parallel4,estimated_full_sampling_hours_parallel4,recommended_total_hours_with_postprocessing_low,recommended_total_hours_with_postprocessing_high
+300,150,2,2982.164,2670.106,9.42045,18840.9,5.233583333333334,5.733583333333334,6.733583333333334

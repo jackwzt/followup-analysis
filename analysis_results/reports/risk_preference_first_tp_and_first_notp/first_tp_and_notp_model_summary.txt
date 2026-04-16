@@ -1,0 +1,171 @@
+Model:
+risky_choice ~ Blocks * Choice_Frame * Feedback_Type * timepressure + (1 | Participant)
+
+Rows: 9680  Participants: 121 
+
+Generalized linear mixed model fit by maximum likelihood (Laplace
+  Approximation) [glmerMod]
+ Family: binomial  ( logit )
+Formula: risky_choice ~ Blocks * Choice_Frame * Feedback_Type * timepressure +  
+    (1 | Participant)
+   Data: analysis_data
+Control: glmerControl(optimizer = "bobyqa", optCtrl = list(maxfun = 2e+05))
+
+      AIC       BIC    logLik -2*log(L)  df.resid 
+  13267.7   13504.5   -6600.8   13201.7      9647 
+
+Scaled residuals: 
+    Min      1Q  Median      3Q     Max 
+-1.4615 -0.9510 -0.6898  1.0029  1.9247 
+
+Random effects:
+ Groups      Name        Variance Std.Dev.
+ Participant (Intercept) 0.07404  0.2721  
+Number of obs: 9680, groups:  Participant, 121
+
+Fixed effects:
+                                                                Estimate
+(Intercept)                                                      0.26531
+Blocks2                                                         -0.27595
+Blocks3                                                         -0.04839
+Blocks4                                                         -0.50379
+Choice_FrameReject                                              -0.21447
+Feedback_TypePartial                                            -0.61084
+timepressureYes                                                 -0.39076
+Blocks2:Choice_FrameReject                                       0.18472
+Blocks3:Choice_FrameReject                                       0.06144
+Blocks4:Choice_FrameReject                                       0.49074
+Blocks2:Feedback_TypePartial                                     0.27597
+Blocks3:Feedback_TypePartial                                     0.01727
+Blocks4:Feedback_TypePartial                                     0.23309
+Choice_FrameReject:Feedback_TypePartial                          0.69343
+Blocks2:timepressureYes                                          0.44388
+Blocks3:timepressureYes                                          0.18833
+Blocks4:timepressureYes                                          0.76986
+Choice_FrameReject:timepressureYes                               0.41829
+Feedback_TypePartial:timepressureYes                             0.59510
+Blocks2:Choice_FrameReject:Feedback_TypePartial                 -0.61056
+Blocks3:Choice_FrameReject:Feedback_TypePartial                 -0.51422
+Blocks4:Choice_FrameReject:Feedback_TypePartial                 -0.83701
+Blocks2:Choice_FrameReject:timepressureYes                      -0.44254
+Blocks3:Choice_FrameReject:timepressureYes                      -0.15635
+Blocks4:Choice_FrameReject:timepressureYes                      -0.85792
+Blocks2:Feedback_TypePartial:timepressureYes                    -0.59361
+Blocks3:Feedback_TypePartial:timepressureYes                    -0.32373
+Blocks4:Feedback_TypePartial:timepressureYes                    -0.81935
+Choice_FrameReject:Feedback_TypePartial:timepressureYes         -0.89531
+Blocks2:Choice_FrameReject:Feedback_TypePartial:timepressureYes  0.89824
+Blocks3:Choice_FrameReject:Feedback_TypePartial:timepressureYes  0.65582
+Blocks4:Choice_FrameReject:Feedback_TypePartial:timepressureYes  1.04658
+                                                                Std. Error
+(Intercept)                                                        0.11770
+Blocks2                                                            0.15499
+Blocks3                                                            0.15540
+Blocks4                                                            0.15555
+Choice_FrameReject                                                 0.16667
+Feedback_TypePartial                                               0.17769
+timepressureYes                                                    0.16683
+Blocks2:Choice_FrameReject                                         0.22368
+Blocks3:Choice_FrameReject                                         0.22397
+Blocks4:Choice_FrameReject                                         0.22413
+Blocks2:Feedback_TypePartial                                       0.23464
+Blocks3:Feedback_TypePartial                                       0.23496
+Blocks4:Feedback_TypePartial                                       0.23681
+Choice_FrameReject:Feedback_TypePartial                            0.24633
+Blocks2:timepressureYes                                            0.22804
+Blocks3:timepressureYes                                            0.22825
+Blocks4:timepressureYes                                            0.22859
+Choice_FrameReject:timepressureYes                                 0.23824
+Feedback_TypePartial:timepressureYes                               0.24906
+Blocks2:Choice_FrameReject:Feedback_TypePartial                    0.33110
+Blocks3:Choice_FrameReject:Feedback_TypePartial                    0.33145
+Blocks4:Choice_FrameReject:Feedback_TypePartial                    0.33353
+Blocks2:Choice_FrameReject:timepressureYes                         0.31694
+Blocks3:Choice_FrameReject:timepressureYes                         0.31708
+Blocks4:Choice_FrameReject:timepressureYes                         0.31739
+Blocks2:Feedback_TypePartial:timepressureYes                       0.34106
+Blocks3:Feedback_TypePartial:timepressureYes                       0.34114
+Blocks4:Feedback_TypePartial:timepressureYes                       0.34343
+Choice_FrameReject:Feedback_TypePartial:timepressureYes            0.35181
+Blocks2:Choice_FrameReject:Feedback_TypePartial:timepressureYes    0.46901
+Blocks3:Choice_FrameReject:Feedback_TypePartial:timepressureYes    0.46899
+Blocks4:Choice_FrameReject:Feedback_TypePartial:timepressureYes    0.47228
+                                                                z value
+(Intercept)                                                       2.254
+Blocks2                                                          -1.780
+Blocks3                                                          -0.311
+Blocks4                                                          -3.239
+Choice_FrameReject                                               -1.287
+Feedback_TypePartial                                             -3.438
+timepressureYes                                                  -2.342
+Blocks2:Choice_FrameReject                                        0.826
+Blocks3:Choice_FrameReject                                        0.274
+Blocks4:Choice_FrameReject                                        2.190
+Blocks2:Feedback_TypePartial                                      1.176
+Blocks3:Feedback_TypePartial                                      0.073
+Blocks4:Feedback_TypePartial                                      0.984
+Choice_FrameReject:Feedback_TypePartial                           2.815
+Blocks2:timepressureYes                                           1.946
+Blocks3:timepressureYes                                           0.825
+Blocks4:timepressureYes                                           3.368
+Choice_FrameReject:timepressureYes                                1.756
+Feedback_TypePartial:timepressureYes                              2.389
+Blocks2:Choice_FrameReject:Feedback_TypePartial                  -1.844
+Blocks3:Choice_FrameReject:Feedback_TypePartial                  -1.551
+Blocks4:Choice_FrameReject:Feedback_TypePartial                  -2.510
+Blocks2:Choice_FrameReject:timepressureYes                       -1.396
+Blocks3:Choice_FrameReject:timepressureYes                       -0.493
+Blocks4:Choice_FrameReject:timepressureYes                       -2.703
+Blocks2:Feedback_TypePartial:timepressureYes                     -1.740
+Blocks3:Feedback_TypePartial:timepressureYes                     -0.949
+Blocks4:Feedback_TypePartial:timepressureYes                     -2.386
+Choice_FrameReject:Feedback_TypePartial:timepressureYes          -2.545
+Blocks2:Choice_FrameReject:Feedback_TypePartial:timepressureYes   1.915
+Blocks3:Choice_FrameReject:Feedback_TypePartial:timepressureYes   1.398
+Blocks4:Choice_FrameReject:Feedback_TypePartial:timepressureYes   2.216
+                                                                Pr(>|z|)    
+(Intercept)                                                     0.024184 *  
+Blocks2                                                         0.075004 .  
+Blocks3                                                         0.755500    
+Blocks4                                                         0.001200 ** 
+Choice_FrameReject                                              0.198184    
+Feedback_TypePartial                                            0.000587 ***
+timepressureYes                                                 0.019168 *  
+Blocks2:Choice_FrameReject                                      0.408893    
+Blocks3:Choice_FrameReject                                      0.783848    
+Blocks4:Choice_FrameReject                                      0.028559 *  
+Blocks2:Feedback_TypePartial                                    0.239528    
+Blocks3:Feedback_TypePartial                                    0.941419    
+Blocks4:Feedback_TypePartial                                    0.324974    
+Choice_FrameReject:Feedback_TypePartial                         0.004877 ** 
+Blocks2:timepressureYes                                         0.051596 .  
+Blocks3:timepressureYes                                         0.409323    
+Blocks4:timepressureYes                                         0.000758 ***
+Choice_FrameReject:timepressureYes                              0.079138 .  
+Feedback_TypePartial:timepressureYes                            0.016877 *  
+Blocks2:Choice_FrameReject:Feedback_TypePartial                 0.065176 .  
+Blocks3:Choice_FrameReject:Feedback_TypePartial                 0.120802    
+Blocks4:Choice_FrameReject:Feedback_TypePartial                 0.012087 *  
+Blocks2:Choice_FrameReject:timepressureYes                      0.162629    
+Blocks3:Choice_FrameReject:timepressureYes                      0.621947    
+Blocks4:Choice_FrameReject:timepressureYes                      0.006871 ** 
+Blocks2:Feedback_TypePartial:timepressureYes                    0.081774 .  
+Blocks3:Feedback_TypePartial:timepressureYes                    0.342631    
+Blocks4:Feedback_TypePartial:timepressureYes                    0.017042 *  
+Choice_FrameReject:Feedback_TypePartial:timepressureYes         0.010932 *  
+Blocks2:Choice_FrameReject:Feedback_TypePartial:timepressureYes 0.055470 .  
+Blocks3:Choice_FrameReject:Feedback_TypePartial:timepressureYes 0.162002    
+Blocks4:Choice_FrameReject:Feedback_TypePartial:timepressureYes 0.026690 *  
+---
+Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
+
+
+Drop1 LRT:
+Single term deletions
+
+Model:
+risky_choice ~ Blocks * Choice_Frame * Feedback_Type * timepressure + 
+    (1 | Participant)
+                                               npar   AIC    LRT Pr(Chi)
+<none>                                              13268               
+Blocks:Choice_Frame:Feedback_Type:timepressure    3 13268 5.7924  0.1222

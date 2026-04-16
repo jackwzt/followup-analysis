@@ -1,0 +1,15 @@
+Previous-choice control analysis
+
+User data: risky-choice uncertainty GLMM + previous risky choice
+Rows after lagging first trial: 18876
+Top-1 conditional accuracy: 0.6374
+Top-1 fixed-effect accuracy: 0.5621
+Full - Partial RU_risky slope: est=-8.2760, 95%CI [-13.4944, -3.0575], p=0.00188
+Accept - Reject risky-choice bias: est=-0.0502, 95%CI [-0.0888, -0.0116], p=0.0108
+
+Original paper data: V + RU + VTU with previous choice
+Rows after accuracy filter and lagging first trial: 12420
+Previous choice effect: est=0.7260, 95%CI [0.5041, 0.9478], p=1.43e-10
+V effect controlled: est=1.0654, 95%CI [0.9325, 1.1983], p=1.22e-55
+RU effect controlled: est=0.4070, 95%CI [0.2989, 0.5151], p=1.61e-13
+VTU effect controlled: est=0.3585, 95%CI [0.2310, 0.4859], p=3.52e-08

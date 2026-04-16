@@ -1,0 +1,145 @@
+AFEX mixed model comparison report
+Rows: 2410  Participants: 121 
+
+AIC ranking (lower is better):
+                  model      AIC      BIC    logLik npar singular
+1     M4_base_plus_both 12200.30 12402.86 -6065.151   35    FALSE
+2 M3_base_plus_RTChoice 12200.75 12397.52 -6066.375   34    FALSE
+3               M1_base 12277.39 12468.37 -6105.694   33    FALSE
+4 M2_base_plus_TimedOut 12277.41 12474.18 -6104.704   34    FALSE
+
+Best model by AIC:
+M4_base_plus_both
+
+Best model ANOVA table:
+Mixed Model Anova Table (Type 3 tests, LRT-method)
+
+Model: Average_Risky_Choice ~ Blocks * Time_Pressure * Choice_Frame * 
+Model:     Feedback_Type + TimedOut_z + RT_Choice_z + (1 | Participant)
+Data: interaction_data
+Df full model: 35
+                                            Effect df      Chisq p.value
+1                                           Blocks  3     8.30 *    .040
+2                                    Time_Pressure  1 162.45 ***   <.001
+3                                     Choice_Frame  1  17.16 ***   <.001
+4                                    Feedback_Type  1  46.95 ***   <.001
+5                                       TimedOut_z  1       2.45    .118
+6                                      RT_Choice_z  1  79.11 ***   <.001
+7                             Blocks:Time_Pressure  3     6.72 +    .082
+8                              Blocks:Choice_Frame  3   13.86 **    .003
+9                       Time_Pressure:Choice_Frame  1 116.83 ***   <.001
+10                            Blocks:Feedback_Type  3  16.97 ***   <.001
+11                     Time_Pressure:Feedback_Type  1     3.01 +    .083
+12                      Choice_Frame:Feedback_Type  1  23.21 ***   <.001
+13               Blocks:Time_Pressure:Choice_Frame  3   12.84 **    .005
+14              Blocks:Time_Pressure:Feedback_Type  3       0.66    .881
+15               Blocks:Choice_Frame:Feedback_Type  3       0.83    .841
+16        Time_Pressure:Choice_Frame:Feedback_Type  1    6.92 **    .009
+17 Blocks:Time_Pressure:Choice_Frame:Feedback_Type  3       0.34    .952
+---
+Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '+' 0.1 ' ' 1
+
+Best model fixed effects:
+                                                         Estimate Std. Error
+(Intercept)                                         -5.309443e-02 0.03108888
+Blocks1                                              5.491613e-02 0.02473841
+Blocks2                                              9.007727e-03 0.02399283
+Blocks3                                             -3.516733e-03 0.02413734
+Time_Pressure1                                       2.140905e-01 0.01684957
+Choice_Frame1                                       -5.823305e-02 0.01405317
+Feedback_Type1                                       2.344874e-01 0.03109446
+TimedOut_z                                           2.128827e-02 0.01361376
+RT_Choice_z                                         -1.573864e-01 0.01782681
+Blocks1:Time_Pressure1                               5.240689e-02 0.02450161
+Blocks2:Time_Pressure1                              -4.651862e-02 0.02397501
+Blocks3:Time_Pressure1                               9.854880e-03 0.02412462
+Blocks1:Choice_Frame1                                8.262607e-02 0.02409484
+Blocks2:Choice_Frame1                                5.647376e-03 0.02396656
+Blocks3:Choice_Frame1                               -3.977266e-02 0.02407725
+Time_Pressure1:Choice_Frame1                        -1.515805e-01 0.01403832
+Blocks1:Feedback_Type1                              -9.310780e-02 0.02391160
+Blocks2:Feedback_Type1                               5.098736e-05 0.02396138
+Blocks3:Feedback_Type1                               4.438384e-02 0.02403382
+Time_Pressure1:Feedback_Type1                        2.416589e-02 0.01391574
+Choice_Frame1:Feedback_Type1                        -6.689603e-02 0.01388601
+Blocks1:Time_Pressure1:Choice_Frame1                 8.425169e-02 0.02408256
+Blocks2:Time_Pressure1:Choice_Frame1                -3.466296e-02 0.02396870
+Blocks3:Time_Pressure1:Choice_Frame1                -3.861820e-02 0.02407628
+Blocks1:Time_Pressure1:Feedback_Type1               -1.871650e-02 0.02391018
+Blocks2:Time_Pressure1:Feedback_Type1                3.952900e-03 0.02396156
+Blocks3:Time_Pressure1:Feedback_Type1                1.135307e-02 0.02403292
+Blocks1:Choice_Frame1:Feedback_Type1                -1.309547e-03 0.02389297
+Blocks2:Choice_Frame1:Feedback_Type1                 1.545902e-02 0.02394911
+Blocks3:Choice_Frame1:Feedback_Type1                -1.932075e-02 0.02403256
+Time_Pressure1:Choice_Frame1:Feedback_Type1          3.651034e-02 0.01388176
+Blocks1:Time_Pressure1:Choice_Frame1:Feedback_Type1 -9.725624e-03 0.02389128
+Blocks2:Time_Pressure1:Choice_Frame1:Feedback_Type1 -2.430235e-03 0.02395027
+Blocks3:Time_Pressure1:Choice_Frame1:Feedback_Type1  1.262437e-02 0.02403176
+                                                          z value     Pr(>|z|)
+(Intercept)                                          -1.707826929 8.766846e-02
+Blocks1                                               2.219873005 2.642739e-02
+Blocks2                                               0.375434138 7.073376e-01
+Blocks3                                              -0.145696783 8.841608e-01
+Time_Pressure1                                       12.705985952 5.477470e-37
+Choice_Frame1                                        -4.143765860 3.416486e-05
+Feedback_Type1                                        7.541130539 4.659144e-14
+TimedOut_z                                            1.563731569 1.178806e-01
+RT_Choice_z                                          -8.828634931 1.059610e-18
+Blocks1:Time_Pressure1                                2.138915921 3.244248e-02
+Blocks2:Time_Pressure1                               -1.940296300 5.234369e-02
+Blocks3:Time_Pressure1                                0.408498891 6.829074e-01
+Blocks1:Choice_Frame1                                 3.429201509 6.053599e-04
+Blocks2:Choice_Frame1                                 0.235635608 8.137154e-01
+Blocks3:Choice_Frame1                                -1.651877264 9.855957e-02
+Time_Pressure1:Choice_Frame1                        -10.797624140 3.532253e-27
+Blocks1:Feedback_Type1                               -3.893833550 9.867237e-05
+Blocks2:Feedback_Type1                                0.002127897 9.983022e-01
+Blocks3:Feedback_Type1                                1.846724632 6.478706e-02
+Time_Pressure1:Feedback_Type1                         1.736586916 8.246011e-02
+Choice_Frame1:Feedback_Type1                         -4.817511898 1.453594e-06
+Blocks1:Time_Pressure1:Choice_Frame1                  3.498452980 4.679656e-04
+Blocks2:Time_Pressure1:Choice_Frame1                 -1.446176161 1.481278e-01
+Blocks3:Time_Pressure1:Choice_Frame1                 -1.603993985 1.087154e-01
+Blocks1:Time_Pressure1:Feedback_Type1                -0.782783894 4.337540e-01
+Blocks2:Time_Pressure1:Feedback_Type1                 0.164968409 8.689688e-01
+Blocks3:Time_Pressure1:Feedback_Type1                 0.472396442 6.366438e-01
+Blocks1:Choice_Frame1:Feedback_Type1                 -0.054808884 9.562907e-01
+Blocks2:Choice_Frame1:Feedback_Type1                  0.645494703 5.186066e-01
+Blocks3:Choice_Frame1:Feedback_Type1                 -0.803940352 4.214314e-01
+Time_Pressure1:Choice_Frame1:Feedback_Type1           2.630094595 8.536111e-03
+Blocks1:Time_Pressure1:Choice_Frame1:Feedback_Type1  -0.407078333 6.839505e-01
+Blocks2:Time_Pressure1:Choice_Frame1:Feedback_Type1  -0.101470040 9.191773e-01
+Blocks3:Time_Pressure1:Choice_Frame1:Feedback_Type1   0.525320165 5.993606e-01
+
+Nested LRT comparisons:
+
+M1_vs_M2
+Data: data
+Models:
+m1$full: Average_Risky_Choice ~ Blocks * Time_Pressure * Choice_Frame * Feedback_Type + (1 | Participant)
+m2$full: Average_Risky_Choice ~ Blocks * Time_Pressure * Choice_Frame * Feedback_Type + TimedOut_z + (1 | Participant)
+        npar   AIC   BIC  logLik -2*log(L)  Chisq Df Pr(>Chisq)
+m1$full   33 12277 12468 -6105.7     12211                     
+m2$full   34 12277 12474 -6104.7     12209 1.9807  1     0.1593
+
+M1_vs_M3
+Data: data
+Models:
+m1$full: Average_Risky_Choice ~ Blocks * Time_Pressure * Choice_Frame * Feedback_Type + (1 | Participant)
+m3$full: Average_Risky_Choice ~ Blocks * Time_Pressure * Choice_Frame * Feedback_Type + RT_Choice_z + (1 | Participant)
+        npar   AIC   BIC  logLik -2*log(L)  Chisq Df Pr(>Chisq)    
+m1$full   33 12277 12468 -6105.7     12211                         
+m3$full   34 12201 12398 -6066.4     12133 78.638  1  < 2.2e-16 ***
+---
+Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
+
+M1_vs_M4
+Data: data
+Models:
+m1$full: Average_Risky_Choice ~ Blocks * Time_Pressure * Choice_Frame * Feedback_Type + (1 | Participant)
+m4$full: Average_Risky_Choice ~ Blocks * Time_Pressure * Choice_Frame * Feedback_Type + TimedOut_z + RT_Choice_z + (1 | Participant)
+        npar   AIC   BIC  logLik -2*log(L)  Chisq Df Pr(>Chisq)    
+m1$full   33 12277 12468 -6105.7     12211                         
+m4$full   35 12200 12403 -6065.2     12130 81.086  2  < 2.2e-16 ***
+---
+Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1

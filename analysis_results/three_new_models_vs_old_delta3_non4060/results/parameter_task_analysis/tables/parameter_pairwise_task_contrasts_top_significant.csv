@@ -1,0 +1,39 @@
+model_id,model_label,parameter,task_a,task_b,diff_mean,diff_hdi95_lo,diff_hdi95_hi,hdi95_crosses_zero,hdi95_direction,posterior_tail_p
+modelA_asym_lapse,Model A: Asymmetric-LR + Stickiness + Lapse,alpha_pos,FulltickTimelimited,PartialtickNoTimelimited,0.2266084351716376,0.06714404155095813,0.3822265480042494,FALSE,Above 0,0.006
+modelA_asym_lapse,Model A: Asymmetric-LR + Stickiness + Lapse,alpha_pos,FullcrossNoTimelimited,PartialtickNoTimelimited,0.19584078448579095,0.023756259292717248,0.36766381202194864,FALSE,Above 0,0.024
+modelA_asym_lapse,Model A: Asymmetric-LR + Stickiness + Lapse,alpha_pos,PartialcrossNoTimelimited,PartialtickNoTimelimited,0.2291709196077305,0.025559070626824776,0.3974958406674604,FALSE,Above 0,0.0285
+modelA_asym_lapse,Model A: Asymmetric-LR + Stickiness + Lapse,gamma,PartialcrossTimelimited,PartialtickNoTimelimited,0.586596438606336,0.32646577305148605,0.8975107627905816,FALSE,Above 0,0
+modelA_asym_lapse,Model A: Asymmetric-LR + Stickiness + Lapse,gamma,FulltickNoTimelimited,PartialcrossTimelimited,-0.5547418883794144,-0.8887827031709814,-0.30875825389896594,FALSE,Below 0,0
+modelA_asym_lapse,Model A: Asymmetric-LR + Stickiness + Lapse,gamma,PartialcrossTimelimited,PartialtickTimelimited,0.4830982593085994,0.21898108484455484,0.7988817649060969,FALSE,Above 0,0
+modelA_asym_lapse,Model A: Asymmetric-LR + Stickiness + Lapse,gamma,FullcrossNoTimelimited,PartialcrossTimelimited,-0.544227402007397,-0.8949749649795252,-0.28214251152771996,FALSE,Below 0,5e-4
+modelA_asym_lapse,Model A: Asymmetric-LR + Stickiness + Lapse,gamma,PartialcrossNoTimelimited,PartialcrossTimelimited,-0.40637451146733183,-0.7068498387528697,-0.16000436233799606,FALSE,Below 0,0.0015
+modelA_asym_lapse,Model A: Asymmetric-LR + Stickiness + Lapse,gamma,FulltickTimelimited,PartialtickNoTimelimited,0.2886706132984143,0.05710659296294027,0.6115824337974874,FALSE,Above 0,0.0155
+modelB_decay,Model B: Decay-RL + Stickiness,beta,FullcrossNoTimelimited,PartialtickNoTimelimited,-7.019297360747904,-11.74864543464826,-2.967601936354464,FALSE,Below 0,0.0065
+modelB_decay,Model B: Decay-RL + Stickiness,beta,FulltickNoTimelimited,PartialtickNoTimelimited,-6.729547037020665,-11.575474613987627,-2.414488880169358,FALSE,Below 0,0.0075
+modelB_decay,Model B: Decay-RL + Stickiness,beta,FullcrossNoTimelimited,PartialtickTimelimited,-5.372366321672273,-8.426595160466228,-2.1508058702355006,FALSE,Below 0,0.008
+modelB_decay,Model B: Decay-RL + Stickiness,beta,FullcrossTimelimited,PartialtickNoTimelimited,-7.219131232684431,-11.987231021001772,-2.938861313168495,FALSE,Below 0,0.0085
+modelB_decay,Model B: Decay-RL + Stickiness,beta,FulltickTimelimited,PartialtickNoTimelimited,-6.464125416083523,-11.390329547132515,-1.847364446877558,FALSE,Below 0,0.011
+modelB_decay,Model B: Decay-RL + Stickiness,beta,FullcrossTimelimited,PartialtickTimelimited,-5.572200193608801,-8.707564298111757,-1.9219875388612038,FALSE,Below 0,0.017
+modelB_decay,Model B: Decay-RL + Stickiness,eta_decay,PartialcrossTimelimited,PartialtickTimelimited,0.13794411165684328,0.0021899286801095514,0.2936842814201648,FALSE,Above 0,0.0465
+modelB_decay,Model B: Decay-RL + Stickiness,gamma,FulltickNoTimelimited,PartialcrossTimelimited,-0.46417652180936275,-0.608366235006585,-0.3209377305089626,FALSE,Below 0,0
+modelB_decay,Model B: Decay-RL + Stickiness,gamma,FullcrossNoTimelimited,PartialcrossTimelimited,-0.4500127659462325,-0.598036504056356,-0.3077132939145,FALSE,Below 0,0
+modelB_decay,Model B: Decay-RL + Stickiness,gamma,PartialcrossTimelimited,PartialtickNoTimelimited,0.4137854499447826,0.22975372995834878,0.5882234114958382,FALSE,Above 0,0
+modelB_decay,Model B: Decay-RL + Stickiness,gamma,PartialcrossTimelimited,PartialtickTimelimited,0.34038994449852367,0.16318219723011468,0.5140182682638209,FALSE,Above 0,0
+modelB_decay,Model B: Decay-RL + Stickiness,gamma,FullcrossTimelimited,PartialcrossTimelimited,-0.31747064406397907,-0.4592624751179657,-0.17537532062351635,FALSE,Below 0,0
+modelB_decay,Model B: Decay-RL + Stickiness,gamma,FulltickTimelimited,PartialcrossTimelimited,-0.29285181134774757,-0.4372581020927218,-0.14789010657736454,FALSE,Below 0,5e-4
+modelC_hybrid,Model C: Hybrid RL + BMT features,alpha,FullcrossNoTimelimited,PartialcrossTimelimited,0.39663752906352157,0.13902457588109768,0.5920172300809663,FALSE,Above 0,0.007
+modelC_hybrid,Model C: Hybrid RL + BMT features,alpha,FulltickTimelimited,PartialcrossTimelimited,0.3561661711027081,0.055274069502609526,0.5652384478224771,FALSE,Above 0,0.024
+modelC_hybrid,Model C: Hybrid RL + BMT features,alpha,FullcrossNoTimelimited,PartialtickNoTimelimited,0.20567145263494205,0.024404636478665524,0.38384132094019746,FALSE,Above 0,0.03
+modelC_hybrid,Model C: Hybrid RL + BMT features,alpha,PartialcrossNoTimelimited,PartialcrossTimelimited,0.31832335834140274,0.03202581775691611,0.5295316227330756,FALSE,Above 0,0.0325
+modelC_hybrid,Model C: Hybrid RL + BMT features,beta_Q,FullcrossTimelimited,PartialtickNoTimelimited,-4.093975662463473,-5.890978726622188,-2.415965946981913,FALSE,Below 0,0
+modelC_hybrid,Model C: Hybrid RL + BMT features,beta_Q,FullcrossTimelimited,PartialtickTimelimited,-4.076323702637586,-5.685850970883279,-2.528366642405463,FALSE,Below 0,0
+modelC_hybrid,Model C: Hybrid RL + BMT features,beta_Q,FullcrossNoTimelimited,PartialtickNoTimelimited,-3.873187278789827,-5.592172209776296,-2.42555775891117,FALSE,Below 0,0
+modelC_hybrid,Model C: Hybrid RL + BMT features,beta_Q,FullcrossNoTimelimited,PartialtickTimelimited,-3.85553531896394,-5.412773635283882,-2.4497246079769672,FALSE,Below 0,0
+modelC_hybrid,Model C: Hybrid RL + BMT features,beta_Q,FulltickTimelimited,PartialtickNoTimelimited,-3.375924193153595,-5.1582969141048585,-1.7712322581065219,FALSE,Below 0,0
+modelC_hybrid,Model C: Hybrid RL + BMT features,beta_Q,FullcrossNoTimelimited,PartialcrossNoTimelimited,-2.531211206595707,-4.936528174236964,-1.1001259623303676,FALSE,Below 0,0
+modelC_hybrid,Model C: Hybrid RL + BMT features,gamma,FulltickNoTimelimited,PartialcrossTimelimited,-0.4262925827668509,-0.5697630903611342,-0.27927777910000656,FALSE,Below 0,0
+modelC_hybrid,Model C: Hybrid RL + BMT features,gamma,PartialcrossTimelimited,PartialtickNoTimelimited,0.4114940523308821,0.23943281281530082,0.589215417027663,FALSE,Above 0,0
+modelC_hybrid,Model C: Hybrid RL + BMT features,gamma,FullcrossNoTimelimited,PartialcrossTimelimited,-0.41033997275681955,-0.5521477737209732,-0.26033635199255156,FALSE,Below 0,0
+modelC_hybrid,Model C: Hybrid RL + BMT features,gamma,PartialcrossTimelimited,PartialtickTimelimited,0.3456203538617753,0.16906484374714004,0.5210390128268506,FALSE,Above 0,0
+modelC_hybrid,Model C: Hybrid RL + BMT features,gamma,FullcrossTimelimited,PartialcrossTimelimited,-0.27861805811744533,-0.4174198557532571,-0.13490104057819213,FALSE,Below 0,0
+modelC_hybrid,Model C: Hybrid RL + BMT features,gamma,FulltickTimelimited,PartialcrossTimelimited,-0.25268844776562105,-0.3983316319154463,-0.10307524249320149,FALSE,Below 0,5e-4

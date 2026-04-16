@@ -1,0 +1,393 @@
+model_id,model_label,parameter,task_a,task_b,diff_mean,diff_hdi95_lo,diff_hdi95_hi,hdi95_crosses_zero,hdi95_direction,posterior_tail_p
+modelA_asym_lapse,Model A: Asymmetric-LR + Stickiness + Lapse,alpha_pos,FullcrossNoTimelimited,FullcrossTimelimited,0.01633990547466841,-0.19621242671300299,0.23917501328413857,TRUE,Crosses 0,0.874
+modelA_asym_lapse,Model A: Asymmetric-LR + Stickiness + Lapse,alpha_pos,FullcrossNoTimelimited,FulltickNoTimelimited,0.07494342861474475,-0.13776076648213045,0.2764135050774678,TRUE,Crosses 0,0.4885
+modelA_asym_lapse,Model A: Asymmetric-LR + Stickiness + Lapse,alpha_pos,FullcrossNoTimelimited,FulltickTimelimited,-0.030767650685846627,-0.21182959582982455,0.15946354686186193,TRUE,Crosses 0,0.754
+modelA_asym_lapse,Model A: Asymmetric-LR + Stickiness + Lapse,alpha_pos,FullcrossNoTimelimited,PartialcrossNoTimelimited,-0.03333013512193954,-0.2269663199720835,0.19007686940349275,TRUE,Crosses 0,0.726
+modelA_asym_lapse,Model A: Asymmetric-LR + Stickiness + Lapse,alpha_pos,FullcrossNoTimelimited,PartialcrossTimelimited,0.09750680868485793,-0.14700990022106625,0.34164734376244627,TRUE,Crosses 0,0.4615
+modelA_asym_lapse,Model A: Asymmetric-LR + Stickiness + Lapse,alpha_pos,FullcrossNoTimelimited,PartialtickNoTimelimited,0.19584078448579095,0.023756259292717248,0.36766381202194864,FALSE,Above 0,0.024
+modelA_asym_lapse,Model A: Asymmetric-LR + Stickiness + Lapse,alpha_pos,FullcrossNoTimelimited,PartialtickTimelimited,0.07979077070255344,-0.11006507010582567,0.260025747787196,TRUE,Crosses 0,0.397
+modelA_asym_lapse,Model A: Asymmetric-LR + Stickiness + Lapse,alpha_pos,FullcrossTimelimited,FulltickNoTimelimited,0.05860352314007634,-0.17670141803737613,0.2827506327670683,TRUE,Crosses 0,0.605
+modelA_asym_lapse,Model A: Asymmetric-LR + Stickiness + Lapse,alpha_pos,FullcrossTimelimited,FulltickTimelimited,-0.047107556160515034,-0.2572751683216934,0.15902989806546533,TRUE,Crosses 0,0.6675
+modelA_asym_lapse,Model A: Asymmetric-LR + Stickiness + Lapse,alpha_pos,FullcrossTimelimited,PartialcrossNoTimelimited,-0.04967004059660795,-0.2783733613699202,0.1918911651424277,TRUE,Crosses 0,0.6625
+modelA_asym_lapse,Model A: Asymmetric-LR + Stickiness + Lapse,alpha_pos,FullcrossTimelimited,PartialcrossTimelimited,0.08116690321018952,-0.18790996914621286,0.3381581488069894,TRUE,Crosses 0,0.5705
+modelA_asym_lapse,Model A: Asymmetric-LR + Stickiness + Lapse,alpha_pos,FullcrossTimelimited,PartialtickNoTimelimited,0.17950087901112255,-0.02643628559506938,0.3659036939972973,TRUE,Crosses 0,0.0875
+modelA_asym_lapse,Model A: Asymmetric-LR + Stickiness + Lapse,alpha_pos,FullcrossTimelimited,PartialtickTimelimited,0.06345086522788504,-0.15441470998122392,0.270280100759673,TRUE,Crosses 0,0.557
+modelA_asym_lapse,Model A: Asymmetric-LR + Stickiness + Lapse,alpha_pos,FulltickNoTimelimited,FulltickTimelimited,-0.10571107930059137,-0.2975911971038973,0.09536001352798863,TRUE,Crosses 0,0.2975
+modelA_asym_lapse,Model A: Asymmetric-LR + Stickiness + Lapse,alpha_pos,FulltickNoTimelimited,PartialcrossNoTimelimited,-0.10827356373668429,-0.31937261832744496,0.12710846975479798,TRUE,Crosses 0,0.334
+modelA_asym_lapse,Model A: Asymmetric-LR + Stickiness + Lapse,alpha_pos,FulltickNoTimelimited,PartialcrossTimelimited,0.022563380070113184,-0.23753341411261938,0.28407390223328105,TRUE,Crosses 0,0.855
+modelA_asym_lapse,Model A: Asymmetric-LR + Stickiness + Lapse,alpha_pos,FulltickNoTimelimited,PartialtickNoTimelimited,0.12089735587104622,-0.0687779287028372,0.3069086648555855,TRUE,Crosses 0,0.1835
+modelA_asym_lapse,Model A: Asymmetric-LR + Stickiness + Lapse,alpha_pos,FulltickNoTimelimited,PartialtickTimelimited,0.0048473420878087006,-0.19071449198478732,0.20537657268997417,TRUE,Crosses 0,0.9725
+modelA_asym_lapse,Model A: Asymmetric-LR + Stickiness + Lapse,alpha_pos,FulltickTimelimited,PartialcrossNoTimelimited,-0.002562484436092913,-0.18705218406775115,0.209401635601738,TRUE,Crosses 0,0.9465
+modelA_asym_lapse,Model A: Asymmetric-LR + Stickiness + Lapse,alpha_pos,FulltickTimelimited,PartialcrossTimelimited,0.12827445937070456,-0.11110696195396945,0.35676248385494314,TRUE,Crosses 0,0.3015
+modelA_asym_lapse,Model A: Asymmetric-LR + Stickiness + Lapse,alpha_pos,FulltickTimelimited,PartialtickNoTimelimited,0.2266084351716376,0.06714404155095813,0.3822265480042494,FALSE,Above 0,0.006
+modelA_asym_lapse,Model A: Asymmetric-LR + Stickiness + Lapse,alpha_pos,FulltickTimelimited,PartialtickTimelimited,0.11055842138840007,-0.06638985736548401,0.28432513115979163,TRUE,Crosses 0,0.216
+modelA_asym_lapse,Model A: Asymmetric-LR + Stickiness + Lapse,alpha_pos,PartialcrossNoTimelimited,PartialcrossTimelimited,0.13083694380679747,-0.14061669588962214,0.38209640606496026,TRUE,Crosses 0,0.3375
+modelA_asym_lapse,Model A: Asymmetric-LR + Stickiness + Lapse,alpha_pos,PartialcrossNoTimelimited,PartialtickNoTimelimited,0.2291709196077305,0.025559070626824776,0.3974958406674604,FALSE,Above 0,0.0285
+modelA_asym_lapse,Model A: Asymmetric-LR + Stickiness + Lapse,alpha_pos,PartialcrossNoTimelimited,PartialtickTimelimited,0.11312090582449298,-0.10714918363192218,0.29806384014210896,TRUE,Crosses 0,0.293
+modelA_asym_lapse,Model A: Asymmetric-LR + Stickiness + Lapse,alpha_pos,PartialcrossTimelimited,PartialtickNoTimelimited,0.09833397580093303,-0.13186679292028008,0.3273354220278796,TRUE,Crosses 0,0.4095
+modelA_asym_lapse,Model A: Asymmetric-LR + Stickiness + Lapse,alpha_pos,PartialcrossTimelimited,PartialtickTimelimited,-0.01771603798230448,-0.2569365902238997,0.22233688273222718,TRUE,Crosses 0,0.8915
+modelA_asym_lapse,Model A: Asymmetric-LR + Stickiness + Lapse,alpha_pos,PartialtickNoTimelimited,PartialtickTimelimited,-0.11605001378323752,-0.27957276176141804,0.04483084007487355,TRUE,Crosses 0,0.168
+modelA_asym_lapse,Model A: Asymmetric-LR + Stickiness + Lapse,alpha_neg,FullcrossNoTimelimited,FullcrossTimelimited,0.13677173674804372,-0.09632185334330645,0.36194188706650293,TRUE,Crosses 0,0.254
+modelA_asym_lapse,Model A: Asymmetric-LR + Stickiness + Lapse,alpha_neg,FullcrossNoTimelimited,FulltickNoTimelimited,0.06420907207168541,-0.1667492680555167,0.2997280960961117,TRUE,Crosses 0,0.62
+modelA_asym_lapse,Model A: Asymmetric-LR + Stickiness + Lapse,alpha_neg,FullcrossNoTimelimited,FulltickTimelimited,0.08652057596352894,-0.12450123656676886,0.27876153953247323,TRUE,Crosses 0,0.3875
+modelA_asym_lapse,Model A: Asymmetric-LR + Stickiness + Lapse,alpha_neg,FullcrossNoTimelimited,PartialcrossNoTimelimited,0.12622334868173454,-0.07277670237501332,0.30495410033830184,TRUE,Crosses 0,0.2135
+modelA_asym_lapse,Model A: Asymmetric-LR + Stickiness + Lapse,alpha_neg,FullcrossNoTimelimited,PartialcrossTimelimited,0.21907808743910592,-0.010307553434864163,0.4238773901871972,TRUE,Crosses 0,0.0605
+modelA_asym_lapse,Model A: Asymmetric-LR + Stickiness + Lapse,alpha_neg,FullcrossNoTimelimited,PartialtickNoTimelimited,0.18163041092646146,-0.006833528588672209,0.353266958003713,TRUE,Crosses 0,0.0585
+modelA_asym_lapse,Model A: Asymmetric-LR + Stickiness + Lapse,alpha_neg,FullcrossNoTimelimited,PartialtickTimelimited,0.11872610464988391,-0.08007296234174864,0.2917581396540642,TRUE,Crosses 0,0.2185
+modelA_asym_lapse,Model A: Asymmetric-LR + Stickiness + Lapse,alpha_neg,FullcrossTimelimited,FulltickNoTimelimited,-0.0725626646763583,-0.32573718401362045,0.18671868883758108,TRUE,Crosses 0,0.5845
+modelA_asym_lapse,Model A: Asymmetric-LR + Stickiness + Lapse,alpha_neg,FullcrossTimelimited,FulltickTimelimited,-0.050251160784514776,-0.2693655642082336,0.16479389271908373,TRUE,Crosses 0,0.6605
+modelA_asym_lapse,Model A: Asymmetric-LR + Stickiness + Lapse,alpha_neg,FullcrossTimelimited,PartialcrossNoTimelimited,-0.01054838806630917,-0.22625260754001902,0.20327558737675508,TRUE,Crosses 0,0.936
+modelA_asym_lapse,Model A: Asymmetric-LR + Stickiness + Lapse,alpha_neg,FullcrossTimelimited,PartialcrossTimelimited,0.08230635069106221,-0.16427149779953704,0.3102445410781032,TRUE,Crosses 0,0.4915
+modelA_asym_lapse,Model A: Asymmetric-LR + Stickiness + Lapse,alpha_neg,FullcrossTimelimited,PartialtickNoTimelimited,0.04485867417841775,-0.15805469769180927,0.24141872285683097,TRUE,Crosses 0,0.6475
+modelA_asym_lapse,Model A: Asymmetric-LR + Stickiness + Lapse,alpha_neg,FullcrossTimelimited,PartialtickTimelimited,-0.01804563209815981,-0.22371799574295412,0.18919681825669488,TRUE,Crosses 0,0.875
+modelA_asym_lapse,Model A: Asymmetric-LR + Stickiness + Lapse,alpha_neg,FulltickNoTimelimited,FulltickTimelimited,0.022311503891843526,-0.21073749507773662,0.24251422343780954,TRUE,Crosses 0,0.8465
+modelA_asym_lapse,Model A: Asymmetric-LR + Stickiness + Lapse,alpha_neg,FulltickNoTimelimited,PartialcrossNoTimelimited,0.06201427661004913,-0.16206843366295193,0.27307504745063843,TRUE,Crosses 0,0.5855
+modelA_asym_lapse,Model A: Asymmetric-LR + Stickiness + Lapse,alpha_neg,FulltickNoTimelimited,PartialcrossTimelimited,0.1548690153674205,-0.09720901074490394,0.3895163855255884,TRUE,Crosses 0,0.2185
+modelA_asym_lapse,Model A: Asymmetric-LR + Stickiness + Lapse,alpha_neg,FulltickNoTimelimited,PartialtickNoTimelimited,0.11742133885477604,-0.094237880536689,0.31469455604892255,TRUE,Crosses 0,0.2835
+modelA_asym_lapse,Model A: Asymmetric-LR + Stickiness + Lapse,alpha_neg,FulltickNoTimelimited,PartialtickTimelimited,0.05451703257819849,-0.15735228564787154,0.2613262294218192,TRUE,Crosses 0,0.6265
+modelA_asym_lapse,Model A: Asymmetric-LR + Stickiness + Lapse,alpha_neg,FulltickTimelimited,PartialcrossNoTimelimited,0.0397027727182056,-0.14050699427666993,0.2221029656011365,TRUE,Crosses 0,0.666
+modelA_asym_lapse,Model A: Asymmetric-LR + Stickiness + Lapse,alpha_neg,FulltickTimelimited,PartialcrossTimelimited,0.13255751147557698,-0.0872010265578382,0.339441130332421,TRUE,Crosses 0,0.2175
+modelA_asym_lapse,Model A: Asymmetric-LR + Stickiness + Lapse,alpha_neg,FulltickTimelimited,PartialtickNoTimelimited,0.09510983496293252,-0.06978211088422562,0.2612890777696529,TRUE,Crosses 0,0.256
+modelA_asym_lapse,Model A: Asymmetric-LR + Stickiness + Lapse,alpha_neg,FulltickTimelimited,PartialtickTimelimited,0.03220552868635496,-0.13685081191580573,0.20357733738381217,TRUE,Crosses 0,0.7265
+modelA_asym_lapse,Model A: Asymmetric-LR + Stickiness + Lapse,alpha_neg,PartialcrossNoTimelimited,PartialcrossTimelimited,0.09285473875737138,-0.11557899486244382,0.2840251980993116,TRUE,Crosses 0,0.3605
+modelA_asym_lapse,Model A: Asymmetric-LR + Stickiness + Lapse,alpha_neg,PartialcrossNoTimelimited,PartialtickNoTimelimited,0.05540706224472692,-0.10130597037953878,0.2118513642214528,TRUE,Crosses 0,0.47
+modelA_asym_lapse,Model A: Asymmetric-LR + Stickiness + Lapse,alpha_neg,PartialcrossNoTimelimited,PartialtickTimelimited,-0.007497244031850639,-0.1651862632727924,0.1538927889015969,TRUE,Crosses 0,0.918
+modelA_asym_lapse,Model A: Asymmetric-LR + Stickiness + Lapse,alpha_neg,PartialcrossTimelimited,PartialtickNoTimelimited,-0.03744767651264447,-0.22393934736575782,0.16685738704234293,TRUE,Crosses 0,0.664
+modelA_asym_lapse,Model A: Asymmetric-LR + Stickiness + Lapse,alpha_neg,PartialcrossTimelimited,PartialtickTimelimited,-0.10035198278922203,-0.2879175695717992,0.10200189054412079,TRUE,Crosses 0,0.324
+modelA_asym_lapse,Model A: Asymmetric-LR + Stickiness + Lapse,alpha_neg,PartialtickNoTimelimited,PartialtickTimelimited,-0.06290430627657756,-0.20751253220967827,0.08194298894900176,TRUE,Crosses 0,0.3995
+modelA_asym_lapse,Model A: Asymmetric-LR + Stickiness + Lapse,beta,FullcrossNoTimelimited,FullcrossTimelimited,-0.7426516098062235,-11.234308752155233,7.320611420248688,TRUE,Crosses 0,0.945
+modelA_asym_lapse,Model A: Asymmetric-LR + Stickiness + Lapse,beta,FullcrossNoTimelimited,FulltickNoTimelimited,0.8534106997552234,-5.027350746639753,8.179001510271863,TRUE,Crosses 0,0.7585
+modelA_asym_lapse,Model A: Asymmetric-LR + Stickiness + Lapse,beta,FullcrossNoTimelimited,FulltickTimelimited,-0.7631059517769306,-8.77204486943975,6.938891655375671,TRUE,Crosses 0,0.742
+modelA_asym_lapse,Model A: Asymmetric-LR + Stickiness + Lapse,beta,FullcrossNoTimelimited,PartialcrossNoTimelimited,-3.0508488779689555,-11.438702581909178,4.946605991901085,TRUE,Crosses 0,0.2435
+modelA_asym_lapse,Model A: Asymmetric-LR + Stickiness + Lapse,beta,FullcrossNoTimelimited,PartialcrossTimelimited,-4.612956057094987,-21.813967378966677,4.699675707039228,TRUE,Crosses 0,0.2485
+modelA_asym_lapse,Model A: Asymmetric-LR + Stickiness + Lapse,beta,FullcrossNoTimelimited,PartialtickNoTimelimited,-3.595860983835596,-8.18234533871439,3.8704826767559943,TRUE,Crosses 0,0.145
+modelA_asym_lapse,Model A: Asymmetric-LR + Stickiness + Lapse,beta,FullcrossNoTimelimited,PartialtickTimelimited,-3.9234128038357596,-9.287931298788441,3.4445081017329033,TRUE,Crosses 0,0.143
+modelA_asym_lapse,Model A: Asymmetric-LR + Stickiness + Lapse,beta,FullcrossTimelimited,FulltickNoTimelimited,1.596062309561447,-4.6988789627254475,11.426546340547912,TRUE,Crosses 0,0.73
+modelA_asym_lapse,Model A: Asymmetric-LR + Stickiness + Lapse,beta,FullcrossTimelimited,FulltickTimelimited,-0.0204543419707071,-8.972669542576943,10.488323946563717,TRUE,Crosses 0,0.8555
+modelA_asym_lapse,Model A: Asymmetric-LR + Stickiness + Lapse,beta,FullcrossTimelimited,PartialcrossNoTimelimited,-2.308197268162732,-11.08887867922446,8.126798308341716,TRUE,Crosses 0,0.39
+modelA_asym_lapse,Model A: Asymmetric-LR + Stickiness + Lapse,beta,FullcrossTimelimited,PartialcrossTimelimited,-3.8703044472887638,-21.59438586558724,8.20035651307747,TRUE,Crosses 0,0.403
+modelA_asym_lapse,Model A: Asymmetric-LR + Stickiness + Lapse,beta,FullcrossTimelimited,PartialtickNoTimelimited,-2.8532093740293725,-8.047216046612364,7.3073249510641825,TRUE,Crosses 0,0.2685
+modelA_asym_lapse,Model A: Asymmetric-LR + Stickiness + Lapse,beta,FullcrossTimelimited,PartialtickTimelimited,-3.1807611940295364,-9.468884735222819,7.152708165042234,TRUE,Crosses 0,0.253
+modelA_asym_lapse,Model A: Asymmetric-LR + Stickiness + Lapse,beta,FulltickNoTimelimited,FulltickTimelimited,-1.616516651532154,-9.528024938738323,3.9238668445888303,TRUE,Crosses 0,0.4915
+modelA_asym_lapse,Model A: Asymmetric-LR + Stickiness + Lapse,beta,FulltickNoTimelimited,PartialcrossNoTimelimited,-3.904259577724179,-11.821001488666829,2.029246853656327,TRUE,Crosses 0,0.1085
+modelA_asym_lapse,Model A: Asymmetric-LR + Stickiness + Lapse,beta,FulltickNoTimelimited,PartialcrossTimelimited,-5.466366756850211,-22.748979620570495,2.0917531825227536,TRUE,Crosses 0,0.142
+modelA_asym_lapse,Model A: Asymmetric-LR + Stickiness + Lapse,beta,FulltickNoTimelimited,PartialtickNoTimelimited,-4.449271683590819,-8.430413429525137,0.63861202218888,TRUE,Crosses 0,0.066
+modelA_asym_lapse,Model A: Asymmetric-LR + Stickiness + Lapse,beta,FulltickNoTimelimited,PartialtickTimelimited,-4.776823503590983,-9.501376650882163,0.5941984252656936,TRUE,Crosses 0,0.0625
+modelA_asym_lapse,Model A: Asymmetric-LR + Stickiness + Lapse,beta,FulltickTimelimited,PartialcrossNoTimelimited,-2.287742926192025,-10.563288699695844,5.777613884343963,TRUE,Crosses 0,0.4105
+modelA_asym_lapse,Model A: Asymmetric-LR + Stickiness + Lapse,beta,FulltickTimelimited,PartialcrossTimelimited,-3.849850105318057,-21.231626447728008,5.492816315639913,TRUE,Crosses 0,0.3995
+modelA_asym_lapse,Model A: Asymmetric-LR + Stickiness + Lapse,beta,FulltickTimelimited,PartialtickNoTimelimited,-2.832755032058665,-7.4359188705337775,5.01145189858826,TRUE,Crosses 0,0.262
+modelA_asym_lapse,Model A: Asymmetric-LR + Stickiness + Lapse,beta,FulltickTimelimited,PartialtickTimelimited,-3.160306852058829,-8.517284527686854,4.688322610513475,TRUE,Crosses 0,0.2405
+modelA_asym_lapse,Model A: Asymmetric-LR + Stickiness + Lapse,beta,PartialcrossNoTimelimited,PartialcrossTimelimited,-1.562107179126032,-19.160937742743336,8.399847372373511,TRUE,Crosses 0,0.9205
+modelA_asym_lapse,Model A: Asymmetric-LR + Stickiness + Lapse,beta,PartialcrossNoTimelimited,PartialtickNoTimelimited,-0.5450121058666404,-5.3256604982706905,7.301346706351314,TRUE,Crosses 0,0.6245
+modelA_asym_lapse,Model A: Asymmetric-LR + Stickiness + Lapse,beta,PartialcrossNoTimelimited,PartialtickTimelimited,-0.8725639258668043,-6.438655254352368,7.583117934034237,TRUE,Crosses 0,0.574
+modelA_asym_lapse,Model A: Asymmetric-LR + Stickiness + Lapse,beta,PartialcrossTimelimited,PartialtickNoTimelimited,1.0170950732593913,-5.724024327005691,18.127073437794234,TRUE,Crosses 0,0.8425
+modelA_asym_lapse,Model A: Asymmetric-LR + Stickiness + Lapse,beta,PartialcrossTimelimited,PartialtickTimelimited,0.6895432532592275,-6.711237348856453,18.239262630005136,TRUE,Crosses 0,0.793
+modelA_asym_lapse,Model A: Asymmetric-LR + Stickiness + Lapse,beta,PartialtickNoTimelimited,PartialtickTimelimited,-0.3275518200001638,-5.155074287717763,3.81704804450415,TRUE,Crosses 0,0.9055
+modelA_asym_lapse,Model A: Asymmetric-LR + Stickiness + Lapse,gamma,FullcrossNoTimelimited,FullcrossTimelimited,-0.1756269459797611,-0.48845429668592394,0.08296027698479191,TRUE,Crosses 0,0.168
+modelA_asym_lapse,Model A: Asymmetric-LR + Stickiness + Lapse,gamma,FullcrossNoTimelimited,FulltickNoTimelimited,0.010514486372017314,-0.2358329445184364,0.24015126302357995,TRUE,Crosses 0,0.9045
+modelA_asym_lapse,Model A: Asymmetric-LR + Stickiness + Lapse,gamma,FullcrossNoTimelimited,FulltickTimelimited,-0.2463015766994753,-0.5743572756136583,-0.01540764406030348,FALSE,Below 0,0.0355
+modelA_asym_lapse,Model A: Asymmetric-LR + Stickiness + Lapse,gamma,FullcrossNoTimelimited,PartialcrossNoTimelimited,-0.13785289054006522,-0.38997407293534586,0.06822121871742859,TRUE,Crosses 0,0.199
+modelA_asym_lapse,Model A: Asymmetric-LR + Stickiness + Lapse,gamma,FullcrossNoTimelimited,PartialcrossTimelimited,-0.544227402007397,-0.8949749649795252,-0.28214251152771996,FALSE,Below 0,5e-4
+modelA_asym_lapse,Model A: Asymmetric-LR + Stickiness + Lapse,gamma,FullcrossNoTimelimited,PartialtickNoTimelimited,0.04236903659893901,-0.2152319035528586,0.2725870814964891,TRUE,Crosses 0,0.6785
+modelA_asym_lapse,Model A: Asymmetric-LR + Stickiness + Lapse,gamma,FullcrossNoTimelimited,PartialtickTimelimited,-0.06112914269879764,-0.33030712763312514,0.16645832746764871,TRUE,Crosses 0,0.634
+modelA_asym_lapse,Model A: Asymmetric-LR + Stickiness + Lapse,gamma,FullcrossTimelimited,FulltickNoTimelimited,0.18614143235177844,-0.05669112068318348,0.47685593838501783,TRUE,Crosses 0,0.118
+modelA_asym_lapse,Model A: Asymmetric-LR + Stickiness + Lapse,gamma,FullcrossTimelimited,FulltickTimelimited,-0.07067463071971418,-0.38635925940776067,0.20756840339597032,TRUE,Crosses 0,0.615
+modelA_asym_lapse,Model A: Asymmetric-LR + Stickiness + Lapse,gamma,FullcrossTimelimited,PartialcrossNoTimelimited,0.0377740554396959,-0.20717580914418793,0.30902769468531566,TRUE,Crosses 0,0.7685
+modelA_asym_lapse,Model A: Asymmetric-LR + Stickiness + Lapse,gamma,FullcrossTimelimited,PartialcrossTimelimited,-0.3686004560276359,-0.7112187577451139,-0.06483513206961793,FALSE,Below 0,0.025
+modelA_asym_lapse,Model A: Asymmetric-LR + Stickiness + Lapse,gamma,FullcrossTimelimited,PartialtickNoTimelimited,0.21799598257870012,-0.03856388607943634,0.5045636699760676,TRUE,Crosses 0,0.0835
+modelA_asym_lapse,Model A: Asymmetric-LR + Stickiness + Lapse,gamma,FullcrossTimelimited,PartialtickTimelimited,0.11449780328096348,-0.14751086610500322,0.3982609703949596,TRUE,Crosses 0,0.35
+modelA_asym_lapse,Model A: Asymmetric-LR + Stickiness + Lapse,gamma,FulltickNoTimelimited,FulltickTimelimited,-0.25681606307149263,-0.562521431461727,-0.04933463908570724,FALSE,Below 0,0.016
+modelA_asym_lapse,Model A: Asymmetric-LR + Stickiness + Lapse,gamma,FulltickNoTimelimited,PartialcrossNoTimelimited,-0.14836737691208254,-0.36411801106764524,0.04511838957831035,TRUE,Crosses 0,0.1325
+modelA_asym_lapse,Model A: Asymmetric-LR + Stickiness + Lapse,gamma,FulltickNoTimelimited,PartialcrossTimelimited,-0.5547418883794144,-0.8887827031709814,-0.30875825389896594,FALSE,Below 0,0
+modelA_asym_lapse,Model A: Asymmetric-LR + Stickiness + Lapse,gamma,FulltickNoTimelimited,PartialtickNoTimelimited,0.0318545502269217,-0.19154546414127446,0.2523317715411649,TRUE,Crosses 0,0.742
+modelA_asym_lapse,Model A: Asymmetric-LR + Stickiness + Lapse,gamma,FulltickNoTimelimited,PartialtickTimelimited,-0.07164362907081495,-0.30286577531143577,0.13688686311861498,TRUE,Crosses 0,0.501
+modelA_asym_lapse,Model A: Asymmetric-LR + Stickiness + Lapse,gamma,FulltickTimelimited,PartialcrossNoTimelimited,0.10844868615941007,-0.10544521467004969,0.3944733741880686,TRUE,Crosses 0,0.348
+modelA_asym_lapse,Model A: Asymmetric-LR + Stickiness + Lapse,gamma,FulltickTimelimited,PartialcrossTimelimited,-0.2979258253079218,-0.6127003919922677,0.0194943859482365,TRUE,Crosses 0,0.0635
+modelA_asym_lapse,Model A: Asymmetric-LR + Stickiness + Lapse,gamma,FulltickTimelimited,PartialtickNoTimelimited,0.2886706132984143,0.05710659296294027,0.6115824337974874,FALSE,Above 0,0.0155
+modelA_asym_lapse,Model A: Asymmetric-LR + Stickiness + Lapse,gamma,FulltickTimelimited,PartialtickTimelimited,0.18517243400067765,-0.04861205438459313,0.48154313777556246,TRUE,Crosses 0,0.1165
+modelA_asym_lapse,Model A: Asymmetric-LR + Stickiness + Lapse,gamma,PartialcrossNoTimelimited,PartialcrossTimelimited,-0.40637451146733183,-0.7068498387528697,-0.16000436233799606,FALSE,Below 0,0.0015
+modelA_asym_lapse,Model A: Asymmetric-LR + Stickiness + Lapse,gamma,PartialcrossNoTimelimited,PartialtickNoTimelimited,0.18022192713900423,-0.028495657877900742,0.4086493517966427,TRUE,Crosses 0,0.086
+modelA_asym_lapse,Model A: Asymmetric-LR + Stickiness + Lapse,gamma,PartialcrossNoTimelimited,PartialtickTimelimited,0.07672374784126758,-0.14134037318045403,0.2889154606666297,TRUE,Crosses 0,0.473
+modelA_asym_lapse,Model A: Asymmetric-LR + Stickiness + Lapse,gamma,PartialcrossTimelimited,PartialtickNoTimelimited,0.586596438606336,0.32646577305148605,0.8975107627905816,FALSE,Above 0,0
+modelA_asym_lapse,Model A: Asymmetric-LR + Stickiness + Lapse,gamma,PartialcrossTimelimited,PartialtickTimelimited,0.4830982593085994,0.21898108484455484,0.7988817649060969,FALSE,Above 0,0
+modelA_asym_lapse,Model A: Asymmetric-LR + Stickiness + Lapse,gamma,PartialtickNoTimelimited,PartialtickTimelimited,-0.10349817929773665,-0.3363280384453633,0.11488553020715575,TRUE,Crosses 0,0.3575
+modelA_asym_lapse,Model A: Asymmetric-LR + Stickiness + Lapse,epsilon_lapse,FullcrossNoTimelimited,FullcrossTimelimited,-0.052291215652028086,-0.4275772872021751,0.34950023074395015,TRUE,Crosses 0,0.8145
+modelA_asym_lapse,Model A: Asymmetric-LR + Stickiness + Lapse,epsilon_lapse,FullcrossNoTimelimited,FulltickNoTimelimited,0.08232755046508611,-0.2907552584924131,0.42398013360059705,TRUE,Crosses 0,0.602
+modelA_asym_lapse,Model A: Asymmetric-LR + Stickiness + Lapse,epsilon_lapse,FullcrossNoTimelimited,FulltickTimelimited,0.025183952724256147,-0.31726935005525064,0.3862619669973187,TRUE,Crosses 0,0.904
+modelA_asym_lapse,Model A: Asymmetric-LR + Stickiness + Lapse,epsilon_lapse,FullcrossNoTimelimited,PartialcrossNoTimelimited,0.15720042989221247,-0.07582832454799085,0.4475111588183783,TRUE,Crosses 0,0.238
+modelA_asym_lapse,Model A: Asymmetric-LR + Stickiness + Lapse,epsilon_lapse,FullcrossNoTimelimited,PartialcrossTimelimited,0.011970676427170118,-0.23355727762995637,0.32317831181073264,TRUE,Crosses 0,0.9895
+modelA_asym_lapse,Model A: Asymmetric-LR + Stickiness + Lapse,epsilon_lapse,FullcrossNoTimelimited,PartialtickNoTimelimited,0.15858697246012343,-0.08217574913628369,0.45559257462809805,TRUE,Crosses 0,0.22
+modelA_asym_lapse,Model A: Asymmetric-LR + Stickiness + Lapse,epsilon_lapse,FullcrossNoTimelimited,PartialtickTimelimited,0.14732500639672186,-0.07838224787668607,0.4461503556887441,TRUE,Crosses 0,0.2985
+modelA_asym_lapse,Model A: Asymmetric-LR + Stickiness + Lapse,epsilon_lapse,FullcrossTimelimited,FulltickNoTimelimited,0.1346187661171142,-0.26367340788239774,0.4727856383521003,TRUE,Crosses 0,0.497
+modelA_asym_lapse,Model A: Asymmetric-LR + Stickiness + Lapse,epsilon_lapse,FullcrossTimelimited,FulltickTimelimited,0.07747516837628424,-0.30292936350038996,0.44086766071906086,TRUE,Crosses 0,0.7195
+modelA_asym_lapse,Model A: Asymmetric-LR + Stickiness + Lapse,epsilon_lapse,FullcrossTimelimited,PartialcrossNoTimelimited,0.20949164554424055,-0.06627967996601468,0.4963197141740969,TRUE,Crosses 0,0.222
+modelA_asym_lapse,Model A: Asymmetric-LR + Stickiness + Lapse,epsilon_lapse,FullcrossTimelimited,PartialcrossTimelimited,0.0642618920791982,-0.24529133984281068,0.38879338636283,TRUE,Crosses 0,0.7645
+modelA_asym_lapse,Model A: Asymmetric-LR + Stickiness + Lapse,epsilon_lapse,FullcrossTimelimited,PartialtickNoTimelimited,0.21087818811215153,-0.07003356465132912,0.5020608680889306,TRUE,Crosses 0,0.2255
+modelA_asym_lapse,Model A: Asymmetric-LR + Stickiness + Lapse,epsilon_lapse,FullcrossTimelimited,PartialtickTimelimited,0.19961622204874996,-0.07712170612444032,0.4879894904075033,TRUE,Crosses 0,0.2685
+modelA_asym_lapse,Model A: Asymmetric-LR + Stickiness + Lapse,epsilon_lapse,FulltickNoTimelimited,FulltickTimelimited,-0.05714359774082996,-0.3702817578524219,0.29554124530663356,TRUE,Crosses 0,0.706
+modelA_asym_lapse,Model A: Asymmetric-LR + Stickiness + Lapse,epsilon_lapse,FulltickNoTimelimited,PartialcrossNoTimelimited,0.07487287942712635,-0.10343748706931684,0.37875762743047553,TRUE,Crosses 0,0.579
+modelA_asym_lapse,Model A: Asymmetric-LR + Stickiness + Lapse,epsilon_lapse,FulltickNoTimelimited,PartialcrossTimelimited,-0.07035687403791599,-0.28063236576308315,0.24919577534164603,TRUE,Crosses 0,0.5205
+modelA_asym_lapse,Model A: Asymmetric-LR + Stickiness + Lapse,epsilon_lapse,FulltickNoTimelimited,PartialtickNoTimelimited,0.07625942199503732,-0.12992843576104296,0.3899926492562698,TRUE,Crosses 0,0.5365
+modelA_asym_lapse,Model A: Asymmetric-LR + Stickiness + Lapse,epsilon_lapse,FulltickNoTimelimited,PartialtickTimelimited,0.06499745593163575,-0.11268008934844606,0.3693631025610739,TRUE,Crosses 0,0.668
+modelA_asym_lapse,Model A: Asymmetric-LR + Stickiness + Lapse,epsilon_lapse,FulltickTimelimited,PartialcrossNoTimelimited,0.1320164771679563,-0.08403805632099268,0.40129116652287194,TRUE,Crosses 0,0.327
+modelA_asym_lapse,Model A: Asymmetric-LR + Stickiness + Lapse,epsilon_lapse,FulltickTimelimited,PartialcrossTimelimited,-0.01321327629708603,-0.2552407516334112,0.27185952674071756,TRUE,Crosses 0,0.878
+modelA_asym_lapse,Model A: Asymmetric-LR + Stickiness + Lapse,epsilon_lapse,FulltickTimelimited,PartialtickNoTimelimited,0.1334030197358673,-0.09276381360388242,0.3968650873184079,TRUE,Crosses 0,0.3105
+modelA_asym_lapse,Model A: Asymmetric-LR + Stickiness + Lapse,epsilon_lapse,FulltickTimelimited,PartialtickTimelimited,0.12214105367246571,-0.08663256966196825,0.3890164160255573,TRUE,Crosses 0,0.3915
+modelA_asym_lapse,Model A: Asymmetric-LR + Stickiness + Lapse,epsilon_lapse,PartialcrossNoTimelimited,PartialcrossTimelimited,-0.14522975346504235,-0.29608321277321203,0.02524893086442949,TRUE,Crosses 0,0.097
+modelA_asym_lapse,Model A: Asymmetric-LR + Stickiness + Lapse,epsilon_lapse,PartialcrossNoTimelimited,PartialtickNoTimelimited,0.0013865425679109697,-0.17005908112359958,0.13242336262775176,TRUE,Crosses 0,0.9325
+modelA_asym_lapse,Model A: Asymmetric-LR + Stickiness + Lapse,epsilon_lapse,PartialcrossNoTimelimited,PartialtickTimelimited,-0.009875423495490606,-0.12802962989352218,0.12184164785154455,TRUE,Crosses 0,0.8205
+modelA_asym_lapse,Model A: Asymmetric-LR + Stickiness + Lapse,epsilon_lapse,PartialcrossTimelimited,PartialtickNoTimelimited,0.1466162960329533,-0.045620780880288266,0.3035777015000671,TRUE,Crosses 0,0.111
+modelA_asym_lapse,Model A: Asymmetric-LR + Stickiness + Lapse,epsilon_lapse,PartialcrossTimelimited,PartialtickTimelimited,0.13535432996955174,-0.03780316569183089,0.28570836073804085,TRUE,Crosses 0,0.1275
+modelA_asym_lapse,Model A: Asymmetric-LR + Stickiness + Lapse,epsilon_lapse,PartialtickNoTimelimited,PartialtickTimelimited,-0.011261966063401576,-0.13582787422650563,0.16380180921936144,TRUE,Crosses 0,0.755
+modelB_decay,Model B: Decay-RL + Stickiness,alpha,FullcrossNoTimelimited,FullcrossTimelimited,0.11788143334331354,-0.15872507033586697,0.438412119897722,TRUE,Crosses 0,0.436
+modelB_decay,Model B: Decay-RL + Stickiness,alpha,FullcrossNoTimelimited,FulltickNoTimelimited,0.12218531164228238,-0.15863271741894794,0.4307748578381488,TRUE,Crosses 0,0.432
+modelB_decay,Model B: Decay-RL + Stickiness,alpha,FullcrossNoTimelimited,FulltickTimelimited,0.032462190152771596,-0.21088844882664814,0.2995874181923819,TRUE,Crosses 0,0.781
+modelB_decay,Model B: Decay-RL + Stickiness,alpha,FullcrossNoTimelimited,PartialcrossNoTimelimited,0.12188249125641493,-0.12721259529353626,0.3322480142026888,TRUE,Crosses 0,0.2745
+modelB_decay,Model B: Decay-RL + Stickiness,alpha,FullcrossNoTimelimited,PartialcrossTimelimited,0.20072394019791903,-0.12156480952070386,0.5367826732552509,TRUE,Crosses 0,0.2255
+modelB_decay,Model B: Decay-RL + Stickiness,alpha,FullcrossNoTimelimited,PartialtickNoTimelimited,0.22205160221294062,-0.008884562623695287,0.43221237081536557,TRUE,Crosses 0,0.056
+modelB_decay,Model B: Decay-RL + Stickiness,alpha,FullcrossNoTimelimited,PartialtickTimelimited,0.11189280312686653,-0.11048040897727812,0.29681398100683876,TRUE,Crosses 0,0.2775
+modelB_decay,Model B: Decay-RL + Stickiness,alpha,FullcrossTimelimited,FulltickNoTimelimited,0.004303878298968855,-0.3537767623559469,0.3535121298459916,TRUE,Crosses 0,0.977
+modelB_decay,Model B: Decay-RL + Stickiness,alpha,FullcrossTimelimited,FulltickTimelimited,-0.08541924319054194,-0.40303750411818784,0.2080856803916309,TRUE,Crosses 0,0.579
+modelB_decay,Model B: Decay-RL + Stickiness,alpha,FullcrossTimelimited,PartialcrossNoTimelimited,0.004001057913101396,-0.31145775756504995,0.27150359099734656,TRUE,Crosses 0,0.9275
+modelB_decay,Model B: Decay-RL + Stickiness,alpha,FullcrossTimelimited,PartialcrossTimelimited,0.0828425068546055,-0.308104148381787,0.4663789716542126,TRUE,Crosses 0,0.675
+modelB_decay,Model B: Decay-RL + Stickiness,alpha,FullcrossTimelimited,PartialtickNoTimelimited,0.10417016886962709,-0.21546804696580169,0.37069681276526467,TRUE,Crosses 0,0.459
+modelB_decay,Model B: Decay-RL + Stickiness,alpha,FullcrossTimelimited,PartialtickTimelimited,-0.0059886302164470035,-0.3141801921478568,0.23733427030189824,TRUE,Crosses 0,0.9645
+modelB_decay,Model B: Decay-RL + Stickiness,alpha,FulltickNoTimelimited,FulltickTimelimited,-0.0897231214895108,-0.3944074820332654,0.2058422357355192,TRUE,Crosses 0,0.5635
+modelB_decay,Model B: Decay-RL + Stickiness,alpha,FulltickNoTimelimited,PartialcrossNoTimelimited,-3.0282038586745824e-4,-0.31030693181446056,0.2728679195655765,TRUE,Crosses 0,0.9565
+modelB_decay,Model B: Decay-RL + Stickiness,alpha,FulltickNoTimelimited,PartialcrossTimelimited,0.07853862855563663,-0.31682709102182344,0.4577241677414858,TRUE,Crosses 0,0.728
+modelB_decay,Model B: Decay-RL + Stickiness,alpha,FulltickNoTimelimited,PartialtickNoTimelimited,0.09986629057065824,-0.20173348949406852,0.372365810321415,TRUE,Crosses 0,0.5145
+modelB_decay,Model B: Decay-RL + Stickiness,alpha,FulltickNoTimelimited,PartialtickTimelimited,-0.010292508515415858,-0.3052038174848053,0.2499358254307181,TRUE,Crosses 0,0.992
+modelB_decay,Model B: Decay-RL + Stickiness,alpha,FulltickTimelimited,PartialcrossNoTimelimited,0.08942030110364334,-0.16974088689602113,0.31252086549845953,TRUE,Crosses 0,0.4365
+modelB_decay,Model B: Decay-RL + Stickiness,alpha,FulltickTimelimited,PartialcrossTimelimited,0.16826175004514743,-0.16896738748310416,0.5046185826750447,TRUE,Crosses 0,0.346
+modelB_decay,Model B: Decay-RL + Stickiness,alpha,FulltickTimelimited,PartialtickNoTimelimited,0.18958941206016902,-0.06280191164557751,0.41532472281217725,TRUE,Crosses 0,0.13
+modelB_decay,Model B: Decay-RL + Stickiness,alpha,FulltickTimelimited,PartialtickTimelimited,0.07943061297409494,-0.17223261945489954,0.27968213210038156,TRUE,Crosses 0,0.436
+modelB_decay,Model B: Decay-RL + Stickiness,alpha,PartialcrossNoTimelimited,PartialcrossTimelimited,0.07884144894150409,-0.23978790429302344,0.4132452839769095,TRUE,Crosses 0,0.674
+modelB_decay,Model B: Decay-RL + Stickiness,alpha,PartialcrossNoTimelimited,PartialtickNoTimelimited,0.1001691109565257,-0.12298883834218252,0.3261924056481457,TRUE,Crosses 0,0.378
+modelB_decay,Model B: Decay-RL + Stickiness,alpha,PartialcrossNoTimelimited,PartialtickTimelimited,-0.0099896881295484,-0.21411631315646637,0.1972134809536358,TRUE,Crosses 0,0.9095
+modelB_decay,Model B: Decay-RL + Stickiness,alpha,PartialcrossTimelimited,PartialtickNoTimelimited,0.021327662015021606,-0.3098707065849953,0.33488058132296666,TRUE,Crosses 0,0.8595
+modelB_decay,Model B: Decay-RL + Stickiness,alpha,PartialcrossTimelimited,PartialtickTimelimited,-0.08883113707105249,-0.4134245028424492,0.20673159476095096,TRUE,Crosses 0,0.6305
+modelB_decay,Model B: Decay-RL + Stickiness,alpha,PartialtickNoTimelimited,PartialtickTimelimited,-0.1101587990860741,-0.3160918583813671,0.07968622598402672,TRUE,Crosses 0,0.268
+modelB_decay,Model B: Decay-RL + Stickiness,beta,FullcrossNoTimelimited,FullcrossTimelimited,0.199833871936527,-3.097958415003718,3.2044654498997076,TRUE,Crosses 0,0.754
+modelB_decay,Model B: Decay-RL + Stickiness,beta,FullcrossNoTimelimited,FulltickNoTimelimited,-0.2897503237272388,-3.4828801550095374,2.79226371829402,TRUE,Crosses 0,0.8065
+modelB_decay,Model B: Decay-RL + Stickiness,beta,FullcrossNoTimelimited,FulltickTimelimited,-0.5551719446643805,-3.9503055422082007,2.52900181298657,TRUE,Crosses 0,0.589
+modelB_decay,Model B: Decay-RL + Stickiness,beta,FullcrossNoTimelimited,PartialcrossNoTimelimited,-4.848016756960994,-10.01059562523881,-1.0196602984601943,FALSE,Below 0,0.022
+modelB_decay,Model B: Decay-RL + Stickiness,beta,FullcrossNoTimelimited,PartialcrossTimelimited,-2.720552900998586,-7.608535197998239,0.7892662864626181,TRUE,Crosses 0,0.1
+modelB_decay,Model B: Decay-RL + Stickiness,beta,FullcrossNoTimelimited,PartialtickNoTimelimited,-7.019297360747904,-11.74864543464826,-2.967601936354464,FALSE,Below 0,0.0065
+modelB_decay,Model B: Decay-RL + Stickiness,beta,FullcrossNoTimelimited,PartialtickTimelimited,-5.372366321672273,-8.426595160466228,-2.1508058702355006,FALSE,Below 0,0.008
+modelB_decay,Model B: Decay-RL + Stickiness,beta,FullcrossTimelimited,FulltickNoTimelimited,-0.4895841956637658,-3.86223783883108,2.820045440331262,TRUE,Crosses 0,0.629
+modelB_decay,Model B: Decay-RL + Stickiness,beta,FullcrossTimelimited,FulltickTimelimited,-0.7550058166009075,-4.164009128482072,2.6393273773637347,TRUE,Crosses 0,0.455
+modelB_decay,Model B: Decay-RL + Stickiness,beta,FullcrossTimelimited,PartialcrossNoTimelimited,-5.04785062889752,-10.110136671105247,-0.9775484210960109,FALSE,Below 0,0.0285
+modelB_decay,Model B: Decay-RL + Stickiness,beta,FullcrossTimelimited,PartialcrossTimelimited,-2.9203867729351134,-7.791870727428739,0.9424783470541195,TRUE,Crosses 0,0.0955
+modelB_decay,Model B: Decay-RL + Stickiness,beta,FullcrossTimelimited,PartialtickNoTimelimited,-7.219131232684431,-11.987231021001772,-2.938861313168495,FALSE,Below 0,0.0085
+modelB_decay,Model B: Decay-RL + Stickiness,beta,FullcrossTimelimited,PartialtickTimelimited,-5.572200193608801,-8.707564298111757,-1.9219875388612038,FALSE,Below 0,0.017
+modelB_decay,Model B: Decay-RL + Stickiness,beta,FulltickNoTimelimited,FulltickTimelimited,-0.26542162093714167,-3.6459123608761543,3.0186809820004914,TRUE,Crosses 0,0.811
+modelB_decay,Model B: Decay-RL + Stickiness,beta,FulltickNoTimelimited,PartialcrossNoTimelimited,-4.558266433233754,-9.640417354478489,-0.31331993150580667,FALSE,Below 0,0.04
+modelB_decay,Model B: Decay-RL + Stickiness,beta,FulltickNoTimelimited,PartialcrossTimelimited,-2.4308025772713475,-7.367431920994498,1.5152945332096734,TRUE,Crosses 0,0.167
+modelB_decay,Model B: Decay-RL + Stickiness,beta,FulltickNoTimelimited,PartialtickNoTimelimited,-6.729547037020665,-11.575474613987627,-2.414488880169358,FALSE,Below 0,0.0075
+modelB_decay,Model B: Decay-RL + Stickiness,beta,FulltickNoTimelimited,PartialtickTimelimited,-5.082615997945035,-8.278905565719581,-1.5941591833979882,FALSE,Below 0,0.017
+modelB_decay,Model B: Decay-RL + Stickiness,beta,FulltickTimelimited,PartialcrossNoTimelimited,-4.292844812296613,-9.402153178708145,0.15322463741945502,TRUE,Crosses 0,0.055
+modelB_decay,Model B: Decay-RL + Stickiness,beta,FulltickTimelimited,PartialcrossTimelimited,-2.165380956334206,-7.0582493475313575,1.7390318916177738,TRUE,Crosses 0,0.2005
+modelB_decay,Model B: Decay-RL + Stickiness,beta,FulltickTimelimited,PartialtickNoTimelimited,-6.464125416083523,-11.390329547132515,-1.847364446877558,FALSE,Below 0,0.011
+modelB_decay,Model B: Decay-RL + Stickiness,beta,FulltickTimelimited,PartialtickTimelimited,-4.817194377007893,-7.98336934583215,-1.2084193824996492,FALSE,Below 0,0.0175
+modelB_decay,Model B: Decay-RL + Stickiness,beta,PartialcrossNoTimelimited,PartialcrossTimelimited,2.1274638559624073,-3.4005275086643736,7.618966207051271,TRUE,Crosses 0,0.3725
+modelB_decay,Model B: Decay-RL + Stickiness,beta,PartialcrossNoTimelimited,PartialtickNoTimelimited,-2.1712806037869106,-7.713253764541187,3.6103854835780433,TRUE,Crosses 0,0.4255
+modelB_decay,Model B: Decay-RL + Stickiness,beta,PartialcrossNoTimelimited,PartialtickTimelimited,-0.5243495647112799,-4.652596543260045,4.694475277997098,TRUE,Crosses 0,0.74
+modelB_decay,Model B: Decay-RL + Stickiness,beta,PartialcrossTimelimited,PartialtickNoTimelimited,-4.298744459749318,-9.484081847247294,1.232030001925853,TRUE,Crosses 0,0.1105
+modelB_decay,Model B: Decay-RL + Stickiness,beta,PartialcrossTimelimited,PartialtickTimelimited,-2.651813420673687,-6.231997171179199,2.393998416449028,TRUE,Crosses 0,0.213
+modelB_decay,Model B: Decay-RL + Stickiness,beta,PartialtickNoTimelimited,PartialtickTimelimited,1.6469310390756307,-2.577468362849734,6.724529947361504,TRUE,Crosses 0,0.4875
+modelB_decay,Model B: Decay-RL + Stickiness,gamma,FullcrossNoTimelimited,FullcrossTimelimited,-0.13254212188225345,-0.25905583098173274,-0.008335414853799673,FALSE,Below 0,0.0315
+modelB_decay,Model B: Decay-RL + Stickiness,gamma,FullcrossNoTimelimited,FulltickNoTimelimited,0.014163755863130255,-0.11475090997445281,0.1377130319009343,TRUE,Crosses 0,0.832
+modelB_decay,Model B: Decay-RL + Stickiness,gamma,FullcrossNoTimelimited,FulltickTimelimited,-0.15716095459848492,-0.28588776934031557,-0.0268026220645289,FALSE,Below 0,0.021
+modelB_decay,Model B: Decay-RL + Stickiness,gamma,FullcrossNoTimelimited,PartialcrossNoTimelimited,-0.16428111931226125,-0.31838339284505723,-0.0133025706791585,FALSE,Below 0,0.031
+modelB_decay,Model B: Decay-RL + Stickiness,gamma,FullcrossNoTimelimited,PartialcrossTimelimited,-0.4500127659462325,-0.598036504056356,-0.3077132939145,FALSE,Below 0,0
+modelB_decay,Model B: Decay-RL + Stickiness,gamma,FullcrossNoTimelimited,PartialtickNoTimelimited,-0.03622731600144991,-0.19916699573771388,0.12245637548112397,TRUE,Crosses 0,0.6575
+modelB_decay,Model B: Decay-RL + Stickiness,gamma,FullcrossNoTimelimited,PartialtickTimelimited,-0.10962282144770881,-0.27049600101817695,0.05040406959720558,TRUE,Crosses 0,0.1895
+modelB_decay,Model B: Decay-RL + Stickiness,gamma,FullcrossTimelimited,FulltickNoTimelimited,0.1467058777453837,0.0212552538999723,0.2716804749440304,FALSE,Above 0,0.0215
+modelB_decay,Model B: Decay-RL + Stickiness,gamma,FullcrossTimelimited,FulltickTimelimited,-0.024618832716231463,-0.15312942300207483,0.10621157572799791,TRUE,Crosses 0,0.7065
+modelB_decay,Model B: Decay-RL + Stickiness,gamma,FullcrossTimelimited,PartialcrossNoTimelimited,-0.031738997430007784,-0.1839537561278507,0.11964785678034415,TRUE,Crosses 0,0.677
+modelB_decay,Model B: Decay-RL + Stickiness,gamma,FullcrossTimelimited,PartialcrossTimelimited,-0.31747064406397907,-0.4592624751179657,-0.17537532062351635,FALSE,Below 0,0
+modelB_decay,Model B: Decay-RL + Stickiness,gamma,FullcrossTimelimited,PartialtickNoTimelimited,0.09631480588080354,-0.06367933065752808,0.25452553465384004,TRUE,Crosses 0,0.237
+modelB_decay,Model B: Decay-RL + Stickiness,gamma,FullcrossTimelimited,PartialtickTimelimited,0.02291930043454464,-0.13591083545840763,0.18686197360304338,TRUE,Crosses 0,0.7735
+modelB_decay,Model B: Decay-RL + Stickiness,gamma,FulltickNoTimelimited,FulltickTimelimited,-0.17132471046161518,-0.3046604458304735,-0.04054005658390909,FALSE,Below 0,0.0135
+modelB_decay,Model B: Decay-RL + Stickiness,gamma,FulltickNoTimelimited,PartialcrossNoTimelimited,-0.1784448751753915,-0.33322865882005104,-0.026533409540105708,FALSE,Below 0,0.0175
+modelB_decay,Model B: Decay-RL + Stickiness,gamma,FulltickNoTimelimited,PartialcrossTimelimited,-0.46417652180936275,-0.608366235006585,-0.3209377305089626,FALSE,Below 0,0
+modelB_decay,Model B: Decay-RL + Stickiness,gamma,FulltickNoTimelimited,PartialtickNoTimelimited,-0.05039107186458017,-0.20842019657101776,0.11225180662665896,TRUE,Crosses 0,0.534
+modelB_decay,Model B: Decay-RL + Stickiness,gamma,FulltickNoTimelimited,PartialtickTimelimited,-0.12378657731083907,-0.28206540558560267,0.03562909396627817,TRUE,Crosses 0,0.1325
+modelB_decay,Model B: Decay-RL + Stickiness,gamma,FulltickTimelimited,PartialcrossNoTimelimited,-0.0071201647137763245,-0.1662672974241132,0.1511638697451936,TRUE,Crosses 0,0.926
+modelB_decay,Model B: Decay-RL + Stickiness,gamma,FulltickTimelimited,PartialcrossTimelimited,-0.29285181134774757,-0.4372581020927218,-0.14789010657736454,FALSE,Below 0,5e-4
+modelB_decay,Model B: Decay-RL + Stickiness,gamma,FulltickTimelimited,PartialtickNoTimelimited,0.120933638597035,-0.04631642769509599,0.2846387436587968,TRUE,Crosses 0,0.149
+modelB_decay,Model B: Decay-RL + Stickiness,gamma,FulltickTimelimited,PartialtickTimelimited,0.0475381331507761,-0.1164428336333157,0.21183244136652282,TRUE,Crosses 0,0.579
+modelB_decay,Model B: Decay-RL + Stickiness,gamma,PartialcrossNoTimelimited,PartialcrossTimelimited,-0.28573164663397127,-0.4558856132578247,-0.11634261089539938,FALSE,Below 0,0.0015
+modelB_decay,Model B: Decay-RL + Stickiness,gamma,PartialcrossNoTimelimited,PartialtickNoTimelimited,0.12805380331081134,-0.05250674546890876,0.3127245185464823,TRUE,Crosses 0,0.1655
+modelB_decay,Model B: Decay-RL + Stickiness,gamma,PartialcrossNoTimelimited,PartialtickTimelimited,0.054658297864552424,-0.12735702407939484,0.23915978476194485,TRUE,Crosses 0,0.552
+modelB_decay,Model B: Decay-RL + Stickiness,gamma,PartialcrossTimelimited,PartialtickNoTimelimited,0.4137854499447826,0.22975372995834878,0.5882234114958382,FALSE,Above 0,0
+modelB_decay,Model B: Decay-RL + Stickiness,gamma,PartialcrossTimelimited,PartialtickTimelimited,0.34038994449852367,0.16318219723011468,0.5140182682638209,FALSE,Above 0,0
+modelB_decay,Model B: Decay-RL + Stickiness,gamma,PartialtickNoTimelimited,PartialtickTimelimited,-0.0733955054462589,-0.2657187513281963,0.11644947755760923,TRUE,Crosses 0,0.461
+modelB_decay,Model B: Decay-RL + Stickiness,eta_decay,FullcrossNoTimelimited,FullcrossTimelimited,0.003121748976252654,-0.3942954774544796,0.40591812482226947,TRUE,Crosses 0,0.9935
+modelB_decay,Model B: Decay-RL + Stickiness,eta_decay,FullcrossNoTimelimited,FulltickNoTimelimited,0.02643865338438113,-0.34916671125391546,0.42918273996271933,TRUE,Crosses 0,0.894
+modelB_decay,Model B: Decay-RL + Stickiness,eta_decay,FullcrossNoTimelimited,FulltickTimelimited,0.009951457429021104,-0.3858097438920026,0.4124764997880701,TRUE,Crosses 0,0.9655
+modelB_decay,Model B: Decay-RL + Stickiness,eta_decay,FullcrossNoTimelimited,PartialcrossNoTimelimited,0.06367480107507392,-0.21626720565036522,0.4416749585531803,TRUE,Crosses 0,0.7425
+modelB_decay,Model B: Decay-RL + Stickiness,eta_decay,FullcrossNoTimelimited,PartialcrossTimelimited,-0.011671889609961817,-0.2608580661619318,0.35479871673786717,TRUE,Crosses 0,0.8085
+modelB_decay,Model B: Decay-RL + Stickiness,eta_decay,FullcrossNoTimelimited,PartialtickNoTimelimited,0.047068053837789295,-0.1951807024843882,0.41806224621414834,TRUE,Crosses 0,0.879
+modelB_decay,Model B: Decay-RL + Stickiness,eta_decay,FullcrossNoTimelimited,PartialtickTimelimited,0.1262722220468815,-0.06730389857624668,0.4778617550607866,TRUE,Crosses 0,0.3905
+modelB_decay,Model B: Decay-RL + Stickiness,eta_decay,FullcrossTimelimited,FulltickNoTimelimited,0.02331690440812848,-0.34224535716191845,0.418143091304878,TRUE,Crosses 0,0.9105
+modelB_decay,Model B: Decay-RL + Stickiness,eta_decay,FullcrossTimelimited,FulltickTimelimited,0.00682970845276845,-0.3914155077830648,0.39889653744731357,TRUE,Crosses 0,0.9745
+modelB_decay,Model B: Decay-RL + Stickiness,eta_decay,FullcrossTimelimited,PartialcrossNoTimelimited,0.060553052098821274,-0.2184615012821556,0.4204767727198863,TRUE,Crosses 0,0.758
+modelB_decay,Model B: Decay-RL + Stickiness,eta_decay,FullcrossTimelimited,PartialcrossTimelimited,-0.01479363858621447,-0.25818685314393963,0.33469469313331573,TRUE,Crosses 0,0.8115
+modelB_decay,Model B: Decay-RL + Stickiness,eta_decay,FullcrossTimelimited,PartialtickNoTimelimited,0.043946304861536646,-0.196710768556104,0.40897465379026615,TRUE,Crosses 0,0.8885
+modelB_decay,Model B: Decay-RL + Stickiness,eta_decay,FullcrossTimelimited,PartialtickTimelimited,0.12315047307062882,-0.0727374579141598,0.4733513202403252,TRUE,Crosses 0,0.391
+modelB_decay,Model B: Decay-RL + Stickiness,eta_decay,FulltickNoTimelimited,FulltickTimelimited,-0.016487195955360027,-0.39526123122774615,0.3489504727145224,TRUE,Crosses 0,0.9435
+modelB_decay,Model B: Decay-RL + Stickiness,eta_decay,FulltickNoTimelimited,PartialcrossNoTimelimited,0.03723614769069279,-0.23468237070668868,0.37734846087787827,TRUE,Crosses 0,0.865
+modelB_decay,Model B: Decay-RL + Stickiness,eta_decay,FulltickNoTimelimited,PartialcrossTimelimited,-0.038110542994342946,-0.2669671667844009,0.2957979770724542,TRUE,Crosses 0,0.6755
+modelB_decay,Model B: Decay-RL + Stickiness,eta_decay,FulltickNoTimelimited,PartialtickNoTimelimited,0.020629400453408168,-0.198685475676858,0.3419927932201064,TRUE,Crosses 0,0.995
+modelB_decay,Model B: Decay-RL + Stickiness,eta_decay,FulltickNoTimelimited,PartialtickTimelimited,0.09983356866250034,-0.07339724725272248,0.415531564371163,TRUE,Crosses 0,0.465
+modelB_decay,Model B: Decay-RL + Stickiness,eta_decay,FulltickTimelimited,PartialcrossNoTimelimited,0.05372334364605282,-0.22121586664784504,0.40494073787319185,TRUE,Crosses 0,0.7775
+modelB_decay,Model B: Decay-RL + Stickiness,eta_decay,FulltickTimelimited,PartialcrossTimelimited,-0.021623347038982922,-0.2670226116090896,0.3357751970579164,TRUE,Crosses 0,0.7755
+modelB_decay,Model B: Decay-RL + Stickiness,eta_decay,FulltickTimelimited,PartialtickNoTimelimited,0.037116596408768195,-0.20101252424796906,0.382990323285369,TRUE,Crosses 0,0.9255
+modelB_decay,Model B: Decay-RL + Stickiness,eta_decay,FulltickTimelimited,PartialtickTimelimited,0.11632076461786037,-0.07038490284142446,0.45727493449370404,TRUE,Crosses 0,0.4115
+modelB_decay,Model B: Decay-RL + Stickiness,eta_decay,PartialcrossNoTimelimited,PartialcrossTimelimited,-0.07534669068503574,-0.2720544080960268,0.1496845173385566,TRUE,Crosses 0,0.435
+modelB_decay,Model B: Decay-RL + Stickiness,eta_decay,PartialcrossNoTimelimited,PartialtickNoTimelimited,-0.016606747237284628,-0.20843861396295285,0.21097816435460343,TRUE,Crosses 0,0.822
+modelB_decay,Model B: Decay-RL + Stickiness,eta_decay,PartialcrossNoTimelimited,PartialtickTimelimited,0.06259742097180755,-0.0766261746914378,0.26439839709648255,TRUE,Crosses 0,0.508
+modelB_decay,Model B: Decay-RL + Stickiness,eta_decay,PartialcrossTimelimited,PartialtickNoTimelimited,0.05873994344775112,-0.12306986618556034,0.2470334308842273,TRUE,Crosses 0,0.541
+modelB_decay,Model B: Decay-RL + Stickiness,eta_decay,PartialcrossTimelimited,PartialtickTimelimited,0.13794411165684328,0.0021899286801095514,0.2936842814201648,FALSE,Above 0,0.0465
+modelB_decay,Model B: Decay-RL + Stickiness,eta_decay,PartialtickNoTimelimited,PartialtickTimelimited,0.07920416820909218,-0.05420604212097363,0.2311923005363663,TRUE,Crosses 0,0.283
+modelC_hybrid,Model C: Hybrid RL + BMT features,alpha,FullcrossNoTimelimited,FullcrossTimelimited,0.11281491678321137,-0.09920565420592943,0.3853049402048645,TRUE,Crosses 0,0.3505
+modelC_hybrid,Model C: Hybrid RL + BMT features,alpha,FullcrossNoTimelimited,FulltickNoTimelimited,0.17477633064257722,-0.08556606793123292,0.4744200093027004,TRUE,Crosses 0,0.255
+modelC_hybrid,Model C: Hybrid RL + BMT features,alpha,FullcrossNoTimelimited,FulltickTimelimited,0.04047135796081346,-0.1367159076958308,0.24783267078270765,TRUE,Crosses 0,0.675
+modelC_hybrid,Model C: Hybrid RL + BMT features,alpha,FullcrossNoTimelimited,PartialcrossNoTimelimited,0.07831417072211881,-0.0992666700414731,0.2707602786616841,TRUE,Crosses 0,0.427
+modelC_hybrid,Model C: Hybrid RL + BMT features,alpha,FullcrossNoTimelimited,PartialcrossTimelimited,0.39663752906352157,0.13902457588109768,0.5920172300809663,FALSE,Above 0,0.007
+modelC_hybrid,Model C: Hybrid RL + BMT features,alpha,FullcrossNoTimelimited,PartialtickNoTimelimited,0.20567145263494205,0.024404636478665524,0.38384132094019746,FALSE,Above 0,0.03
+modelC_hybrid,Model C: Hybrid RL + BMT features,alpha,FullcrossNoTimelimited,PartialtickTimelimited,0.12453172028763757,-0.05485098125985494,0.2954382426319588,TRUE,Crosses 0,0.186
+modelC_hybrid,Model C: Hybrid RL + BMT features,alpha,FullcrossTimelimited,FulltickNoTimelimited,0.061961413859365835,-0.2937063889463951,0.4003105636529021,TRUE,Crosses 0,0.744
+modelC_hybrid,Model C: Hybrid RL + BMT features,alpha,FullcrossTimelimited,FulltickTimelimited,-0.07234355882239792,-0.3577058155948025,0.17535930880781328,TRUE,Crosses 0,0.5935
+modelC_hybrid,Model C: Hybrid RL + BMT features,alpha,FullcrossTimelimited,PartialcrossNoTimelimited,-0.03450074606109256,-0.32360498550962896,0.20740334921239648,TRUE,Crosses 0,0.8295
+modelC_hybrid,Model C: Hybrid RL + BMT features,alpha,FullcrossTimelimited,PartialcrossTimelimited,0.2838226122803102,-0.048014773354831904,0.5353244096807683,TRUE,Crosses 0,0.084
+modelC_hybrid,Model C: Hybrid RL + BMT features,alpha,FullcrossTimelimited,PartialtickNoTimelimited,0.09285653585173068,-0.18871309227563937,0.328246351021143,TRUE,Crosses 0,0.4415
+modelC_hybrid,Model C: Hybrid RL + BMT features,alpha,FullcrossTimelimited,PartialtickTimelimited,0.011716803504426197,-0.2664899567038614,0.23693828835599742,TRUE,Crosses 0,0.8855
+modelC_hybrid,Model C: Hybrid RL + BMT features,alpha,FulltickNoTimelimited,FulltickTimelimited,-0.13430497268176375,-0.4490832075961536,0.16154308534734782,TRUE,Crosses 0,0.4255
+modelC_hybrid,Model C: Hybrid RL + BMT features,alpha,FulltickNoTimelimited,PartialcrossNoTimelimited,-0.0964621599204584,-0.40715501155728395,0.18315717600763537,TRUE,Crosses 0,0.5815
+modelC_hybrid,Model C: Hybrid RL + BMT features,alpha,FulltickNoTimelimited,PartialcrossTimelimited,0.22186119842094437,-0.12659114176959335,0.5204041623752375,TRUE,Crosses 0,0.2295
+modelC_hybrid,Model C: Hybrid RL + BMT features,alpha,FulltickNoTimelimited,PartialtickNoTimelimited,0.030895121992364848,-0.27454140835736357,0.30488149020080196,TRUE,Crosses 0,0.8275
+modelC_hybrid,Model C: Hybrid RL + BMT features,alpha,FulltickNoTimelimited,PartialtickTimelimited,-0.05024461035493964,-0.36862717366855036,0.22574620642203858,TRUE,Crosses 0,0.829
+modelC_hybrid,Model C: Hybrid RL + BMT features,alpha,FulltickTimelimited,PartialcrossNoTimelimited,0.037842812761305356,-0.1792576720985596,0.24018483531817522,TRUE,Crosses 0,0.7085
+modelC_hybrid,Model C: Hybrid RL + BMT features,alpha,FulltickTimelimited,PartialcrossTimelimited,0.3561661711027081,0.055274069502609526,0.5652384478224771,FALSE,Above 0,0.024
+modelC_hybrid,Model C: Hybrid RL + BMT features,alpha,FulltickTimelimited,PartialtickNoTimelimited,0.1652000946741286,-0.049923081210195175,0.352496348768596,TRUE,Crosses 0,0.112
+modelC_hybrid,Model C: Hybrid RL + BMT features,alpha,FulltickTimelimited,PartialtickTimelimited,0.08406036232682411,-0.13000061238177169,0.26741504862899473,TRUE,Crosses 0,0.3925
+modelC_hybrid,Model C: Hybrid RL + BMT features,alpha,PartialcrossNoTimelimited,PartialcrossTimelimited,0.31832335834140274,0.03202581775691611,0.5295316227330756,FALSE,Above 0,0.0325
+modelC_hybrid,Model C: Hybrid RL + BMT features,alpha,PartialcrossNoTimelimited,PartialtickNoTimelimited,0.12735728191282325,-0.07635506451579172,0.32927847710298114,TRUE,Crosses 0,0.2105
+modelC_hybrid,Model C: Hybrid RL + BMT features,alpha,PartialcrossNoTimelimited,PartialtickTimelimited,0.046217549565518753,-0.16482288312560836,0.2368859663618431,TRUE,Crosses 0,0.65
+modelC_hybrid,Model C: Hybrid RL + BMT features,alpha,PartialcrossTimelimited,PartialtickNoTimelimited,-0.19096607642857952,-0.406705253555388,0.07754701006264561,TRUE,Crosses 0,0.127
+modelC_hybrid,Model C: Hybrid RL + BMT features,alpha,PartialcrossTimelimited,PartialtickTimelimited,-0.27210580877588403,-0.48884633545122325,7.395847728694211e-4,TRUE,Crosses 0,0.0505
+modelC_hybrid,Model C: Hybrid RL + BMT features,alpha,PartialtickNoTimelimited,PartialtickTimelimited,-0.08113973234730448,-0.2766895710927806,0.10737319762666202,TRUE,Crosses 0,0.421
+modelC_hybrid,Model C: Hybrid RL + BMT features,beta_Q,FullcrossNoTimelimited,FullcrossTimelimited,0.22078838367364553,-0.8217927830852038,0.9717420114214791,TRUE,Crosses 0,0.543
+modelC_hybrid,Model C: Hybrid RL + BMT features,beta_Q,FullcrossNoTimelimited,FulltickNoTimelimited,-0.5416947697967694,-2.3989404440618283,0.5496734257211078,TRUE,Crosses 0,0.514
+modelC_hybrid,Model C: Hybrid RL + BMT features,beta_Q,FullcrossNoTimelimited,FulltickTimelimited,-0.4972630856362323,-1.3954653356489775,0.234226607640132,TRUE,Crosses 0,0.199
+modelC_hybrid,Model C: Hybrid RL + BMT features,beta_Q,FullcrossNoTimelimited,PartialcrossNoTimelimited,-2.531211206595707,-4.936528174236964,-1.1001259623303676,FALSE,Below 0,0
+modelC_hybrid,Model C: Hybrid RL + BMT features,beta_Q,FullcrossNoTimelimited,PartialcrossTimelimited,-2.9885399712059013,-5.681019191737615,-0.6745845255212688,FALSE,Below 0,0.004
+modelC_hybrid,Model C: Hybrid RL + BMT features,beta_Q,FullcrossNoTimelimited,PartialtickNoTimelimited,-3.873187278789827,-5.592172209776296,-2.42555775891117,FALSE,Below 0,0
+modelC_hybrid,Model C: Hybrid RL + BMT features,beta_Q,FullcrossNoTimelimited,PartialtickTimelimited,-3.85553531896394,-5.412773635283882,-2.4497246079769672,FALSE,Below 0,0
+modelC_hybrid,Model C: Hybrid RL + BMT features,beta_Q,FullcrossTimelimited,FulltickNoTimelimited,-0.762483153470415,-2.687427901028468,0.6383195370098291,TRUE,Crosses 0,0.2915
+modelC_hybrid,Model C: Hybrid RL + BMT features,beta_Q,FullcrossTimelimited,FulltickTimelimited,-0.7180514693098778,-1.6877163327368807,0.317313704498253,TRUE,Crosses 0,0.143
+modelC_hybrid,Model C: Hybrid RL + BMT features,beta_Q,FullcrossTimelimited,PartialcrossNoTimelimited,-2.7519995902693526,-5.150089165018144,-1.1625833228658435,FALSE,Below 0,0.003
+modelC_hybrid,Model C: Hybrid RL + BMT features,beta_Q,FullcrossTimelimited,PartialcrossTimelimited,-3.209328354879547,-5.908284169610911,-0.8001404646528754,FALSE,Below 0,0.0055
+modelC_hybrid,Model C: Hybrid RL + BMT features,beta_Q,FullcrossTimelimited,PartialtickNoTimelimited,-4.093975662463473,-5.890978726622188,-2.415965946981913,FALSE,Below 0,0
+modelC_hybrid,Model C: Hybrid RL + BMT features,beta_Q,FullcrossTimelimited,PartialtickTimelimited,-4.076323702637586,-5.685850970883279,-2.528366642405463,FALSE,Below 0,0
+modelC_hybrid,Model C: Hybrid RL + BMT features,beta_Q,FulltickNoTimelimited,FulltickTimelimited,0.04443168416053715,-1.2431986544593103,1.9365385116872074,TRUE,Crosses 0,0.905
+modelC_hybrid,Model C: Hybrid RL + BMT features,beta_Q,FulltickNoTimelimited,PartialcrossNoTimelimited,-1.9895164367989375,-4.505509540913287,0.2684084005513573,TRUE,Crosses 0,0.0805
+modelC_hybrid,Model C: Hybrid RL + BMT features,beta_Q,FulltickNoTimelimited,PartialcrossTimelimited,-2.4468452014091318,-5.307973401623427,0.20773416401304076,TRUE,Crosses 0,0.0765
+modelC_hybrid,Model C: Hybrid RL + BMT features,beta_Q,FulltickNoTimelimited,PartialtickNoTimelimited,-3.3314925089930574,-5.36540898359394,-1.0905962974840824,FALSE,Below 0,0.0055
+modelC_hybrid,Model C: Hybrid RL + BMT features,beta_Q,FulltickNoTimelimited,PartialtickTimelimited,-3.3138405491671703,-5.14905481549281,-1.1924557120592458,FALSE,Below 0,0.0035
+modelC_hybrid,Model C: Hybrid RL + BMT features,beta_Q,FulltickTimelimited,PartialcrossNoTimelimited,-2.0339481209594745,-4.443104327271341,-0.4694340950059358,FALSE,Below 0,0.01
+modelC_hybrid,Model C: Hybrid RL + BMT features,beta_Q,FulltickTimelimited,PartialcrossTimelimited,-2.491276885569669,-5.179463319705866,-0.09197019956155998,FALSE,Below 0,0.0405
+modelC_hybrid,Model C: Hybrid RL + BMT features,beta_Q,FulltickTimelimited,PartialtickNoTimelimited,-3.375924193153595,-5.1582969141048585,-1.7712322581065219,FALSE,Below 0,0
+modelC_hybrid,Model C: Hybrid RL + BMT features,beta_Q,FulltickTimelimited,PartialtickTimelimited,-3.3582722333277077,-4.945343423788244,-1.8721341085573655,FALSE,Below 0,5e-4
+modelC_hybrid,Model C: Hybrid RL + BMT features,beta_Q,PartialcrossNoTimelimited,PartialcrossTimelimited,-0.45732876461019434,-3.4280444137018455,2.5608532015077627,TRUE,Crosses 0,0.731
+modelC_hybrid,Model C: Hybrid RL + BMT features,beta_Q,PartialcrossNoTimelimited,PartialtickNoTimelimited,-1.34197607219412,-3.527128033226967,1.3086256547286794,TRUE,Crosses 0,0.2385
+modelC_hybrid,Model C: Hybrid RL + BMT features,beta_Q,PartialcrossNoTimelimited,PartialtickTimelimited,-1.3243241123682328,-3.462191214310535,1.3670000595199083,TRUE,Crosses 0,0.2435
+modelC_hybrid,Model C: Hybrid RL + BMT features,beta_Q,PartialcrossTimelimited,PartialtickNoTimelimited,-0.8846473075839256,-3.582694655146073,1.9564145088548996,TRUE,Crosses 0,0.5125
+modelC_hybrid,Model C: Hybrid RL + BMT features,beta_Q,PartialcrossTimelimited,PartialtickTimelimited,-0.8669953477580385,-3.5464548885288862,2.0531394020336777,TRUE,Crosses 0,0.5025
+modelC_hybrid,Model C: Hybrid RL + BMT features,beta_Q,PartialtickNoTimelimited,PartialtickTimelimited,0.01765195982588713,-1.9274180385889763,2.1232428787445135,TRUE,Crosses 0,0.998
+modelC_hybrid,Model C: Hybrid RL + BMT features,beta_mu,FullcrossNoTimelimited,FullcrossTimelimited,-0.28965019090276506,-2.08111990737849,1.5156014392949186,TRUE,Crosses 0,0.7555
+modelC_hybrid,Model C: Hybrid RL + BMT features,beta_mu,FullcrossNoTimelimited,FulltickNoTimelimited,-0.14461215001198863,-1.9924412124232,1.6799543253789853,TRUE,Crosses 0,0.874
+modelC_hybrid,Model C: Hybrid RL + BMT features,beta_mu,FullcrossNoTimelimited,FulltickTimelimited,0.41175682633348243,-1.3397579125667023,2.170204341419296,TRUE,Crosses 0,0.656
+modelC_hybrid,Model C: Hybrid RL + BMT features,beta_mu,FullcrossNoTimelimited,PartialcrossNoTimelimited,-0.6606004490051597,-2.39956924442984,1.0460127890836557,TRUE,Crosses 0,0.4385
+modelC_hybrid,Model C: Hybrid RL + BMT features,beta_mu,FullcrossNoTimelimited,PartialcrossTimelimited,0.18688227124333107,-1.4693139984632788,1.8209545168978265,TRUE,Crosses 0,0.8235
+modelC_hybrid,Model C: Hybrid RL + BMT features,beta_mu,FullcrossNoTimelimited,PartialtickNoTimelimited,-0.15954389899376883,-1.888900138558207,1.5048459472291507,TRUE,Crosses 0,0.858
+modelC_hybrid,Model C: Hybrid RL + BMT features,beta_mu,FullcrossNoTimelimited,PartialtickTimelimited,-0.49715499358359205,-2.1985913994827104,1.2213220068564496,TRUE,Crosses 0,0.581
+modelC_hybrid,Model C: Hybrid RL + BMT features,beta_mu,FullcrossTimelimited,FulltickNoTimelimited,0.14503804089077646,-1.7296565772911177,1.9233724312337193,TRUE,Crosses 0,0.8545
+modelC_hybrid,Model C: Hybrid RL + BMT features,beta_mu,FullcrossTimelimited,FulltickTimelimited,0.7014070172362474,-1.0805865830911061,2.4764582927926386,TRUE,Crosses 0,0.4375
+modelC_hybrid,Model C: Hybrid RL + BMT features,beta_mu,FullcrossTimelimited,PartialcrossNoTimelimited,-0.37095025810239457,-1.9903422002291529,1.2482585381462465,TRUE,Crosses 0,0.662
+modelC_hybrid,Model C: Hybrid RL + BMT features,beta_mu,FullcrossTimelimited,PartialcrossTimelimited,0.4765324621460962,-1.2054296457530278,2.134961236456689,TRUE,Crosses 0,0.57
+modelC_hybrid,Model C: Hybrid RL + BMT features,beta_mu,FullcrossTimelimited,PartialtickNoTimelimited,0.13010629190899625,-1.4542638137705661,1.7793333628499746,TRUE,Crosses 0,0.8735
+modelC_hybrid,Model C: Hybrid RL + BMT features,beta_mu,FullcrossTimelimited,PartialtickTimelimited,-0.20750480268082697,-1.912552750058454,1.5000777250210013,TRUE,Crosses 0,0.813
+modelC_hybrid,Model C: Hybrid RL + BMT features,beta_mu,FulltickNoTimelimited,FulltickTimelimited,0.556368976345471,-1.2687402356627275,2.3978608266913723,TRUE,Crosses 0,0.555
+modelC_hybrid,Model C: Hybrid RL + BMT features,beta_mu,FulltickNoTimelimited,PartialcrossNoTimelimited,-0.515988298993171,-2.1842561994196537,1.2303170712872331,TRUE,Crosses 0,0.546
+modelC_hybrid,Model C: Hybrid RL + BMT features,beta_mu,FulltickNoTimelimited,PartialcrossTimelimited,0.3314944212553197,-1.354578392541939,2.0330412992454145,TRUE,Crosses 0,0.689
+modelC_hybrid,Model C: Hybrid RL + BMT features,beta_mu,FulltickNoTimelimited,PartialtickNoTimelimited,-0.014931748981780228,-1.7080788954088755,1.7414383549892598,TRUE,Crosses 0,0.992
+modelC_hybrid,Model C: Hybrid RL + BMT features,beta_mu,FulltickNoTimelimited,PartialtickTimelimited,-0.3525428435716034,-2.1153892825739464,1.3849709651219044,TRUE,Crosses 0,0.684
+modelC_hybrid,Model C: Hybrid RL + BMT features,beta_mu,FulltickTimelimited,PartialcrossNoTimelimited,-1.0723572753386421,-2.7316205774943914,0.6139108048958986,TRUE,Crosses 0,0.218
+modelC_hybrid,Model C: Hybrid RL + BMT features,beta_mu,FulltickTimelimited,PartialcrossTimelimited,-0.22487455509015133,-1.8725533202820543,1.4227289858630012,TRUE,Crosses 0,0.798
+modelC_hybrid,Model C: Hybrid RL + BMT features,beta_mu,FulltickTimelimited,PartialtickNoTimelimited,-0.5713007253272513,-2.245040845333211,1.1146099853895846,TRUE,Crosses 0,0.5145
+modelC_hybrid,Model C: Hybrid RL + BMT features,beta_mu,FulltickTimelimited,PartialtickTimelimited,-0.9089118199170745,-2.623071502918152,0.8088840780785244,TRUE,Crosses 0,0.3005
+modelC_hybrid,Model C: Hybrid RL + BMT features,beta_mu,PartialcrossNoTimelimited,PartialcrossTimelimited,0.8474827202484907,-0.7148571118857362,2.354335764553753,TRUE,Crosses 0,0.281
+modelC_hybrid,Model C: Hybrid RL + BMT features,beta_mu,PartialcrossNoTimelimited,PartialtickNoTimelimited,0.5010565500113908,-1.0371664926822732,2.0800589622394408,TRUE,Crosses 0,0.4995
+modelC_hybrid,Model C: Hybrid RL + BMT features,beta_mu,PartialcrossNoTimelimited,PartialtickTimelimited,0.16344545542156763,-1.4716394003141728,1.7550020894119027,TRUE,Crosses 0,0.8285
+modelC_hybrid,Model C: Hybrid RL + BMT features,beta_mu,PartialcrossTimelimited,PartialtickNoTimelimited,-0.34642617023709993,-1.9073927049220378,1.1715938140030109,TRUE,Crosses 0,0.663
+modelC_hybrid,Model C: Hybrid RL + BMT features,beta_mu,PartialcrossTimelimited,PartialtickTimelimited,-0.6840372648269231,-2.2342983978918434,0.9489532683342762,TRUE,Crosses 0,0.3895
+modelC_hybrid,Model C: Hybrid RL + BMT features,beta_mu,PartialtickNoTimelimited,PartialtickTimelimited,-0.3376110945898232,-1.8870157867768613,1.242384741020142,TRUE,Crosses 0,0.669
+modelC_hybrid,Model C: Hybrid RL + BMT features,beta_sigma,FullcrossNoTimelimited,FullcrossTimelimited,-0.010683935991110404,-2.796483197645474,2.802733707776258,TRUE,Crosses 0,0.9975
+modelC_hybrid,Model C: Hybrid RL + BMT features,beta_sigma,FullcrossNoTimelimited,FulltickNoTimelimited,0.03095558835592132,-2.769351419680589,2.841719217405782,TRUE,Crosses 0,0.9865
+modelC_hybrid,Model C: Hybrid RL + BMT features,beta_sigma,FullcrossNoTimelimited,FulltickTimelimited,-0.0028105379979118995,-2.7684742227604158,2.803966132877072,TRUE,Crosses 0,0.9885
+modelC_hybrid,Model C: Hybrid RL + BMT features,beta_sigma,FullcrossNoTimelimited,PartialcrossNoTimelimited,-0.8622061235994972,-3.0330389705616443,1.2964884668966343,TRUE,Crosses 0,0.423
+modelC_hybrid,Model C: Hybrid RL + BMT features,beta_sigma,FullcrossNoTimelimited,PartialcrossTimelimited,-0.8287510749784743,-3.0030393231451824,1.3191780212401485,TRUE,Crosses 0,0.448
+modelC_hybrid,Model C: Hybrid RL + BMT features,beta_sigma,FullcrossNoTimelimited,PartialtickNoTimelimited,-0.41447775936395764,-2.5572419898328773,1.743585725350812,TRUE,Crosses 0,0.702
+modelC_hybrid,Model C: Hybrid RL + BMT features,beta_sigma,FullcrossNoTimelimited,PartialtickTimelimited,-0.8872951807652254,-3.049640810729234,1.3186437034973195,TRUE,Crosses 0,0.416
+modelC_hybrid,Model C: Hybrid RL + BMT features,beta_sigma,FullcrossTimelimited,FulltickNoTimelimited,0.04163952434703172,-2.686631547462054,2.771077161557303,TRUE,Crosses 0,0.9805
+modelC_hybrid,Model C: Hybrid RL + BMT features,beta_sigma,FullcrossTimelimited,FulltickTimelimited,0.007873397993198505,-2.7663565074034513,2.734626829826685,TRUE,Crosses 0,0.994
+modelC_hybrid,Model C: Hybrid RL + BMT features,beta_sigma,FullcrossTimelimited,PartialcrossNoTimelimited,-0.8515221876083867,-2.9528534725773343,1.3365699292983402,TRUE,Crosses 0,0.4385
+modelC_hybrid,Model C: Hybrid RL + BMT features,beta_sigma,FullcrossTimelimited,PartialcrossTimelimited,-0.8180671389873639,-2.956258825179985,1.3690084374547122,TRUE,Crosses 0,0.4625
+modelC_hybrid,Model C: Hybrid RL + BMT features,beta_sigma,FullcrossTimelimited,PartialtickNoTimelimited,-0.40379382337284725,-2.4701213296215045,1.7687415212298487,TRUE,Crosses 0,0.722
+modelC_hybrid,Model C: Hybrid RL + BMT features,beta_sigma,FullcrossTimelimited,PartialtickTimelimited,-0.876611244774115,-3.0009879121510687,1.3410557376431407,TRUE,Crosses 0,0.4385
+modelC_hybrid,Model C: Hybrid RL + BMT features,beta_sigma,FulltickNoTimelimited,FulltickTimelimited,-0.03376612635383321,-2.7866987817144673,2.784396731399915,TRUE,Crosses 0,0.967
+modelC_hybrid,Model C: Hybrid RL + BMT features,beta_sigma,FulltickNoTimelimited,PartialcrossNoTimelimited,-0.8931617119554185,-3.013475809845488,1.1740359462089374,TRUE,Crosses 0,0.425
+modelC_hybrid,Model C: Hybrid RL + BMT features,beta_sigma,FulltickNoTimelimited,PartialcrossTimelimited,-0.8597066633343956,-3.0403756684430316,1.3141153990489418,TRUE,Crosses 0,0.4445
+modelC_hybrid,Model C: Hybrid RL + BMT features,beta_sigma,FulltickNoTimelimited,PartialtickNoTimelimited,-0.44543334771987897,-2.586236056969538,1.696437805664314,TRUE,Crosses 0,0.6795
+modelC_hybrid,Model C: Hybrid RL + BMT features,beta_sigma,FulltickNoTimelimited,PartialtickTimelimited,-0.9182507691211467,-3.089507158785552,1.1863984939618806,TRUE,Crosses 0,0.4095
+modelC_hybrid,Model C: Hybrid RL + BMT features,beta_sigma,FulltickTimelimited,PartialcrossNoTimelimited,-0.8593955856015852,-2.97148820162832,1.2777975469009766,TRUE,Crosses 0,0.443
+modelC_hybrid,Model C: Hybrid RL + BMT features,beta_sigma,FulltickTimelimited,PartialcrossTimelimited,-0.8259405369805624,-2.946811112371529,1.3461138425105037,TRUE,Crosses 0,0.461
+modelC_hybrid,Model C: Hybrid RL + BMT features,beta_sigma,FulltickTimelimited,PartialtickNoTimelimited,-0.4116672213660457,-2.552105918169203,1.7423680394156726,TRUE,Crosses 0,0.7185
+modelC_hybrid,Model C: Hybrid RL + BMT features,beta_sigma,FulltickTimelimited,PartialtickTimelimited,-0.8844846427673135,-3.0558678364925322,1.2668432944946695,TRUE,Crosses 0,0.44
+modelC_hybrid,Model C: Hybrid RL + BMT features,beta_sigma,PartialcrossNoTimelimited,PartialcrossTimelimited,0.03345504862102287,-1.239268428515218,1.2510274880208874,TRUE,Crosses 0,0.944
+modelC_hybrid,Model C: Hybrid RL + BMT features,beta_sigma,PartialcrossNoTimelimited,PartialtickNoTimelimited,0.4477283642355395,-0.7796456884594567,1.6553550642382382,TRUE,Crosses 0,0.479
+modelC_hybrid,Model C: Hybrid RL + BMT features,beta_sigma,PartialcrossNoTimelimited,PartialtickTimelimited,-0.02508905716572823,-1.3057354015812115,1.1974921220626693,TRUE,Crosses 0,0.972
+modelC_hybrid,Model C: Hybrid RL + BMT features,beta_sigma,PartialcrossTimelimited,PartialtickNoTimelimited,0.41427331561451664,-0.8578215856711421,1.7068256002813693,TRUE,Crosses 0,0.5035
+modelC_hybrid,Model C: Hybrid RL + BMT features,beta_sigma,PartialcrossTimelimited,PartialtickTimelimited,-0.05854410578675111,-1.3643469411922313,1.2504078241500174,TRUE,Crosses 0,0.932
+modelC_hybrid,Model C: Hybrid RL + BMT features,beta_sigma,PartialtickNoTimelimited,PartialtickTimelimited,-0.47281742140126776,-1.745272699095145,0.8441626101945077,TRUE,Crosses 0,0.463
+modelC_hybrid,Model C: Hybrid RL + BMT features,gamma,FullcrossNoTimelimited,FullcrossTimelimited,-0.13172191463937422,-0.2514526778643266,-0.009698756887062477,FALSE,Below 0,0.0335
+modelC_hybrid,Model C: Hybrid RL + BMT features,gamma,FullcrossNoTimelimited,FulltickNoTimelimited,0.0159526100100313,-0.11108747771099363,0.14580176119913796,TRUE,Crosses 0,0.798
+modelC_hybrid,Model C: Hybrid RL + BMT features,gamma,FullcrossNoTimelimited,FulltickTimelimited,-0.15765152499119853,-0.2854077190643128,-0.027331815568796877,FALSE,Below 0,0.02
+modelC_hybrid,Model C: Hybrid RL + BMT features,gamma,FullcrossNoTimelimited,PartialcrossNoTimelimited,-0.14873219739888213,-0.29285498137196986,-0.0013300127907652562,FALSE,Below 0,0.049
+modelC_hybrid,Model C: Hybrid RL + BMT features,gamma,FullcrossNoTimelimited,PartialcrossTimelimited,-0.41033997275681955,-0.5521477737209732,-0.26033635199255156,FALSE,Below 0,0
+modelC_hybrid,Model C: Hybrid RL + BMT features,gamma,FullcrossNoTimelimited,PartialtickNoTimelimited,0.0011540795740625088,-0.1597564112663335,0.16001077222392984,TRUE,Crosses 0,0.972
+modelC_hybrid,Model C: Hybrid RL + BMT features,gamma,FullcrossNoTimelimited,PartialtickTimelimited,-0.06471961889504424,-0.2292878618007789,0.09510616749958657,TRUE,Crosses 0,0.4355
+modelC_hybrid,Model C: Hybrid RL + BMT features,gamma,FullcrossTimelimited,FulltickNoTimelimited,0.1476745246494055,0.02411366339402426,0.27435029130337646,FALSE,Above 0,0.0215
+modelC_hybrid,Model C: Hybrid RL + BMT features,gamma,FullcrossTimelimited,FulltickTimelimited,-0.025929610351824315,-0.15199622966625606,0.10251849645575871,TRUE,Crosses 0,0.6875
+modelC_hybrid,Model C: Hybrid RL + BMT features,gamma,FullcrossTimelimited,PartialcrossNoTimelimited,-0.017010282759507916,-0.1631187643286552,0.13473708092855488,TRUE,Crosses 0,0.8135
+modelC_hybrid,Model C: Hybrid RL + BMT features,gamma,FullcrossTimelimited,PartialcrossTimelimited,-0.27861805811744533,-0.4174198557532571,-0.13490104057819213,FALSE,Below 0,0
+modelC_hybrid,Model C: Hybrid RL + BMT features,gamma,FullcrossTimelimited,PartialtickNoTimelimited,0.1328759942134367,-0.026829886837428266,0.28895632038768554,TRUE,Crosses 0,0.0985
+modelC_hybrid,Model C: Hybrid RL + BMT features,gamma,FullcrossTimelimited,PartialtickTimelimited,0.06700229574432996,-0.08723853132110475,0.22983679060898277,TRUE,Crosses 0,0.4155
+modelC_hybrid,Model C: Hybrid RL + BMT features,gamma,FulltickNoTimelimited,FulltickTimelimited,-0.17360413500122984,-0.30210947340843797,-0.04618839663985437,FALSE,Below 0,0.0075
+modelC_hybrid,Model C: Hybrid RL + BMT features,gamma,FulltickNoTimelimited,PartialcrossNoTimelimited,-0.16468480740891342,-0.30703421852192125,-0.017137708303144223,FALSE,Below 0,0.0255
+modelC_hybrid,Model C: Hybrid RL + BMT features,gamma,FulltickNoTimelimited,PartialcrossTimelimited,-0.4262925827668509,-0.5697630903611342,-0.27927777910000656,FALSE,Below 0,0
+modelC_hybrid,Model C: Hybrid RL + BMT features,gamma,FulltickNoTimelimited,PartialtickNoTimelimited,-0.014798530435968793,-0.176372586599978,0.14764839466657848,TRUE,Crosses 0,0.8445
+modelC_hybrid,Model C: Hybrid RL + BMT features,gamma,FulltickNoTimelimited,PartialtickTimelimited,-0.08067222890507554,-0.24045485851080564,0.0790895269890419,TRUE,Crosses 0,0.32
+modelC_hybrid,Model C: Hybrid RL + BMT features,gamma,FulltickTimelimited,PartialcrossNoTimelimited,0.008919327592316399,-0.1393448825149572,0.1603190288651273,TRUE,Crosses 0,0.899
+modelC_hybrid,Model C: Hybrid RL + BMT features,gamma,FulltickTimelimited,PartialcrossTimelimited,-0.25268844776562105,-0.3983316319154463,-0.10307524249320149,FALSE,Below 0,5e-4
+modelC_hybrid,Model C: Hybrid RL + BMT features,gamma,FulltickTimelimited,PartialtickNoTimelimited,0.15880560456526105,-0.0029168538985409765,0.3234027868451944,TRUE,Crosses 0,0.0535
+modelC_hybrid,Model C: Hybrid RL + BMT features,gamma,FulltickTimelimited,PartialtickTimelimited,0.09293190609615429,-0.07238537916796384,0.2558957283836247,TRUE,Crosses 0,0.275
+modelC_hybrid,Model C: Hybrid RL + BMT features,gamma,PartialcrossNoTimelimited,PartialcrossTimelimited,-0.26160777535793744,-0.42923559900188063,-0.09507680251508287,FALSE,Below 0,0.003
+modelC_hybrid,Model C: Hybrid RL + BMT features,gamma,PartialcrossNoTimelimited,PartialtickNoTimelimited,0.14988627697294463,-0.03200678615616374,0.3263517648030955,TRUE,Crosses 0,0.1055
+modelC_hybrid,Model C: Hybrid RL + BMT features,gamma,PartialcrossNoTimelimited,PartialtickTimelimited,0.08401257850383789,-0.0932102716583177,0.26742534683015645,TRUE,Crosses 0,0.364
+modelC_hybrid,Model C: Hybrid RL + BMT features,gamma,PartialcrossTimelimited,PartialtickNoTimelimited,0.4114940523308821,0.23943281281530082,0.589215417027663,FALSE,Above 0,0
+modelC_hybrid,Model C: Hybrid RL + BMT features,gamma,PartialcrossTimelimited,PartialtickTimelimited,0.3456203538617753,0.16906484374714004,0.5210390128268506,FALSE,Above 0,0
+modelC_hybrid,Model C: Hybrid RL + BMT features,gamma,PartialtickNoTimelimited,PartialtickTimelimited,-0.06587369846910675,-0.255123491809588,0.12452609810250723,TRUE,Crosses 0,0.4805

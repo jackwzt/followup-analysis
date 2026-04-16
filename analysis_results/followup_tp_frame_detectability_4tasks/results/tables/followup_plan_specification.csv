@@ -1,0 +1,8 @@
+item,value
+sample_target,120
+tasks_selected,FullcrossNoTimelimited; FulltickTimelimited; PartialcrossTimelimited; PartialtickNoTimelimited
+trials_per_task_target,60
+tp_manipulation,countdown only
+frame_enhancement,strong labels + color cues + comprehension check
+confirmatory_dual_track,GLMM + Bayesian
+success_rule,Both methods pass TP and Choice Frame

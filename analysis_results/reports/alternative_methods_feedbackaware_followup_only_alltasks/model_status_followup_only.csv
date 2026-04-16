@@ -1,0 +1,4 @@
+method,model_class,n_rows
+method1_wsls_feedback_aware_followup_only,glmerMod,23716
+method2_switch_feedback_aware_followup_only,glmerMod,23716
+method3_rt_quantile_feedback_aware_followup_only,lmerMod,1452

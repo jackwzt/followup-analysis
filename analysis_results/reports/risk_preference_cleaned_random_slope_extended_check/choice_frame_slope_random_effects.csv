@@ -1,0 +1,4 @@
+"grp","var1","var2","vcov","sdcor"
+"Participant","(Intercept)",NA,0.133319998270464,0.365130111426686
+"Participant","Choice_FrameReject",NA,0.212105543109567,0.46054917556062
+"Participant","(Intercept)","Choice_FrameReject",-0.110297323467138,-0.655905563796755

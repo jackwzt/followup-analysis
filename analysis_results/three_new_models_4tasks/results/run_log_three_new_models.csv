@@ -1,0 +1,13 @@
+task,model,status,note
+FullcrossTimelimited,M1_glm_linear,success,
+FullcrossTimelimited,M2_glmer_random_intercept,success,
+FullcrossTimelimited,M3_glmer_nonlinear_interaction,success,
+FulltickNoTimelimited,M1_glm_linear,success,
+FulltickNoTimelimited,M2_glmer_random_intercept,success,
+FulltickNoTimelimited,M3_glmer_nonlinear_interaction,success,
+PartialcrossNoTimelimited,M1_glm_linear,success,
+PartialcrossNoTimelimited,M2_glmer_random_intercept,success,
+PartialcrossNoTimelimited,M3_glmer_nonlinear_interaction,success,
+PartialtickNoTimelimited,M1_glm_linear,success,
+PartialtickNoTimelimited,M2_glmer_random_intercept,success,
+PartialtickNoTimelimited,M3_glmer_nonlinear_interaction,success,

@@ -1,0 +1,13 @@
+task,model,status,note,elapsed_sec
+FullcrossTimelimited,B1_three_parameter,success,,74.37849402427673
+FulltickNoTimelimited,B1_three_parameter,success,,82.12110710144043
+PartialcrossNoTimelimited,B1_three_parameter,success,,67.84025001525879
+PartialtickNoTimelimited,B1_three_parameter,success,,65.65100598335266
+FullcrossTimelimited,B2_regret_4parameter,success,,135.99422693252563
+FulltickNoTimelimited,B2_regret_4parameter,success,,136.11927199363708
+PartialcrossNoTimelimited,B2_regret_4parameter,success,,123.40218305587769
+PartialtickNoTimelimited,B2_regret_4parameter,success,,149.7610080242157
+FullcrossTimelimited,B3_five_parameter_bias_lapse,success,,146.12486910820007
+FulltickNoTimelimited,B3_five_parameter_bias_lapse,success,,147.73506593704224
+PartialcrossNoTimelimited,B3_five_parameter_bias_lapse,success,,124.87620806694031
+PartialtickNoTimelimited,B3_five_parameter_bias_lapse,success,,199.47316718101501

@@ -1,0 +1,5 @@
+task,n_participants,n_trials
+FullcrossTimelimited,65,40
+FulltickNoTimelimited,65,40
+PartialcrossNoTimelimited,56,40
+PartialtickNoTimelimited,56,40

@@ -1,0 +1,9 @@
+task,feedback,time_pressure,frame,n_participants,n_trials_per_participant,n_obs,top1_accuracy_posterior_mean_eff
+FullcrossNoTimelimited,Full,No TP,Reject,65,40,2600,0.6526923076923077
+FullcrossTimelimited,Full,TP,Reject,65,40,2600,0.6469230769230769
+FulltickNoTimelimited,Full,No TP,Accept,65,40,2600,0.661923076923077
+FulltickTimelimited,Full,TP,Accept,65,40,2600,0.6776923076923077
+PartialcrossNoTimelimited,Partial,No TP,Reject,56,40,2240,0.7017857142857142
+PartialcrossTimelimited,Partial,TP,Reject,56,40,2240,0.7102678571428571
+PartialtickNoTimelimited,Partial,No TP,Accept,56,40,2240,0.715625
+PartialtickTimelimited,Partial,TP,Accept,56,40,2240,0.7392857142857143

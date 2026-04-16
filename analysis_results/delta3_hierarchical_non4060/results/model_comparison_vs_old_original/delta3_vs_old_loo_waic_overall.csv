@@ -1,0 +1,2 @@
+n_tasks_compared,total_obs,sum_delta_elpd_loo_delta3_minus_old,sum_delta_elpd_waic_delta3_minus_old,sum_delta_elpd_loo_se_approx,sum_delta_elpd_waic_se_approx,tasks_delta3_better_loo,tasks_old_better_loo,tasks_delta3_better_waic,tasks_old_better_waic
+8,19360,631.2726424244236,635.0312809938252,65.51331957782284,65.4244500046162,8,0,8,0

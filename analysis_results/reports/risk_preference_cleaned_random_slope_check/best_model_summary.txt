@@ -1,0 +1,12 @@
+Random slope check for risk_preference_cleaned
+Date: 2026-03-11 12:18:21.508896 
+
+Data rows: 1936 
+Participants: 121 
+
+Selection rule: Best among converged non-singular models by AIC 
+
+Best model: m0_intercept_only 
+Formula: Average_Risky_Choice ~ Blocks * Time_Pressure * Choice_Frame * Feedback_Type + (1 | Participant) 
+AIC: 8013.231  BIC: 8196.987  logLik: -3973.615 
+Singular: FALSE 

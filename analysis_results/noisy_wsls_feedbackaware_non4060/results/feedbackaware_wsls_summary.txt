@@ -1,0 +1,25 @@
+weighted_top1=0.6529
+unweighted_top1=0.6541
+divergent=0
+max_rhat=1.0060
+min_n_eff=726.73
+
+condition_probabilities:
+p_win_stay_full mean=0.6004 median=0.6007 hdi95=[0.5488,0.6513] crosses_zero=FALSE p_tail=0.0000
+p_win_stay_partial mean=0.7003 median=0.7013 hdi95=[0.6498,0.7451] crosses_zero=FALSE p_tail=0.0000
+p_lose_shift_full mean=0.5746 median=0.5744 hdi95=[0.5315,0.6184] crosses_zero=FALSE p_tail=0.0000
+p_lose_shift_partial mean=0.4743 median=0.4740 hdi95=[0.4237,0.5251] crosses_zero=FALSE p_tail=0.0000
+diff_win_stay_full_minus_partial mean=-0.1000 median=-0.1002 hdi95=[-0.1676,-0.0300] crosses_zero=FALSE p_tail=0.0120
+diff_lose_shift_full_minus_partial mean=0.1003 median=0.1002 hdi95=[0.0331,0.1664] crosses_zero=FALSE p_tail=0.0080
+
+raw_parameter_summary:
+mu_win_stay mean=0.6299 hdi95=[0.4645,0.7939] crosses_zero=FALSE p_tail=0.0005
+mu_lose_shift mean=0.0989 hdi95=[-0.0337,0.2374] crosses_zero=TRUE p_tail=0.1420
+feedback_win_stay mean=-0.4434 hdi95=[-0.7457,-0.1346] crosses_zero=FALSE p_tail=0.0120
+tp_win_stay mean=0.1066 hdi95=[-0.1090,0.3129] crosses_zero=TRUE p_tail=0.2325
+frame_win_stay mean=0.1509 hdi95=[-0.0707,0.3590] crosses_zero=TRUE p_tail=0.1150
+feedback_lose_shift mean=0.4044 hdi95=[0.1333,0.6758] crosses_zero=FALSE p_tail=0.0080
+tp_lose_shift mean=-0.1563 hdi95=[-0.3066,0.0161] crosses_zero=TRUE p_tail=0.0605
+frame_lose_shift mean=0.1206 hdi95=[-0.0544,0.2725] crosses_zero=TRUE p_tail=0.1175
+
+plots: C:/Users/Jack/OneDrive/Desktop/follow up/noisy_wsls_feedbackaware_non4060/results/plots

@@ -1,0 +1,9 @@
+task,n_participants,n_trials,n_trials_total,top1_accuracy_posterior_mean
+FullcrossNoTimelimited,65,40,2600,0.6069230769230769
+FullcrossTimelimited,65,40,2600,0.6142307692307692
+FulltickNoTimelimited,65,40,2600,0.6223076923076923
+FulltickTimelimited,65,40,2600,0.6323076923076923
+PartialcrossNoTimelimited,56,40,2240,0.6928571428571428
+PartialcrossTimelimited,56,40,2240,0.6830357142857143
+PartialtickNoTimelimited,56,40,2240,0.6941964285714286
+PartialtickTimelimited,56,40,2240,0.7004464285714286

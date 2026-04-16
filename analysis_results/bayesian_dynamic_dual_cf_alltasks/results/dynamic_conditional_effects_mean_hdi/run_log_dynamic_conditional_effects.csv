@@ -1,0 +1,2 @@
+timestamp,input_file,exclude_4060,output_dir
+2026-03-17 15:03:53.006859,C:/Users/Jack/OneDrive/Desktop/follow up/bayesian_dynamic_dual_cf_alltasks/results/parameter_draws_alltasks_combined.csv,TRUE,C:/Users/Jack/OneDrive/Desktop/follow up/bayesian_dynamic_dual_cf_alltasks/results/dynamic_conditional_effects_mean_hdi

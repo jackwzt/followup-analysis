@@ -1,0 +1,3 @@
+scope,top1_accuracy,n_tasks,total_trials
+weighted_by_trials,0.6859504132231405,8,19360
+unweighted_task_mean,0.6880434409340659,8,19360

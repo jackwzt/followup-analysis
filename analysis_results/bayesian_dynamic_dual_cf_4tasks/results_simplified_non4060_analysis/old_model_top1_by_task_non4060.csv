@@ -1,0 +1,9 @@
+task,n_participants,n_trials,top1_overall,feedback,timepressure,choice_frame
+FullcrossNoTimelimited,65,40,0.6588461538461539,Full,No TP,Reject
+FullcrossTimelimited,65,40,0.6503846153846153,Full,TP,Reject
+FulltickNoTimelimited,65,40,0.67,Full,No TP,Accept
+FulltickTimelimited,65,40,0.6803846153846154,Full,TP,Accept
+PartialcrossNoTimelimited,56,40,0.7214285714285714,Partial,No TP,Reject
+PartialcrossTimelimited,56,40,0.7183035714285714,Partial,TP,Reject
+PartialtickNoTimelimited,56,40,0.7401785714285715,Partial,No TP,Accept
+PartialtickTimelimited,56,40,0.7491071428571429,Partial,TP,Accept

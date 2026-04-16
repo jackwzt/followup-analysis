@@ -1,0 +1,9 @@
+task,task_label,n_draws,kept_draws,kept_ratio
+FulltickNoTimelimited,Full | Accept | No TP,6000,5959,0.9931666666666666
+FulltickTimelimited,Full | Accept | TP,6000,5531,0.9218333333333333
+FullcrossNoTimelimited,Full | Reject | No TP,6000,5417,0.9028333333333334
+FullcrossTimelimited,Full | Reject | TP,6000,5879,0.9798333333333333
+PartialtickNoTimelimited,Partial | Accept | No TP,6000,6000,1
+PartialtickTimelimited,Partial | Accept | TP,6000,6000,1
+PartialcrossNoTimelimited,Partial | Reject | No TP,6000,6000,1
+PartialcrossTimelimited,Partial | Reject | TP,6000,5999,0.9998333333333334

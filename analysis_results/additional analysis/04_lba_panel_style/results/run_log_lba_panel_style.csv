@@ -1,0 +1,2 @@
+timestamp,full_lba_has_totalSig_tp,partial_lba_has_totalSig_tp,full_lba_has_totalSig_frame,partial_lba_has_totalSig_frame,note
+2026-03-18 20:44:26.253134,FALSE,TRUE,FALSE,TRUE,LBA panel-style figures for Full/Partial and TP/choice frame

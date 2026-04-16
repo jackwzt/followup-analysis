@@ -1,0 +1,5 @@
+"model","formula","ok","singular","converged_warning","AIC","BIC","logLik","npar","error"
+"m0_intercept_only","Average_Risky_Choice ~ Blocks * Time_Pressure * Choice_Frame * Feedback_Type + (1 | Participant)",TRUE,FALSE,"",8013.23068647551,8196.98720231411,-3973.61534323775,33,""
+"m1_blocks_factor_slope","Average_Risky_Choice ~ Blocks * Time_Pressure * Choice_Frame * Feedback_Type + (1 + Blocks | Participant)",TRUE,TRUE,"boundary (singular) fit: see help('isSingular')",7992.68438237218,8226.55631162132,-3954.34219118609,42,""
+"m2_blocks_factor_slope_uncorrelated","Average_Risky_Choice ~ Blocks * Time_Pressure * Choice_Frame * Feedback_Type + (1 + Blocks || Participant)",TRUE,TRUE,"boundary (singular) fit: see help('isSingular')",7994.68438237697,8234.12469089394,-3954.34219118849,43,""
+"m3_blocks_numeric_slope","Average_Risky_Choice ~ Blocks * Time_Pressure * Choice_Frame * Feedback_Type + (1 + Blocks_num | Participant)",TRUE,TRUE,"boundary (singular) fit: see help('isSingular')",7988.09566277158,8182.98893714586,-3959.04783138579,35,""

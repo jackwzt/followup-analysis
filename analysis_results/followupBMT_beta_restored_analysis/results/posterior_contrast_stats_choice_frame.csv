@@ -1,0 +1,13 @@
+parameter,p_gt0,p_lt0,diff_mean,diff_hdi95_lo,diff_hdi95_hi,posterior_tail_p,bf10_dir,hdi95_crosses_zero,hdi95_direction,label
+beta_restored,0.142,0.858,-0.17479445136656613,-0.5627711907032332,0.20309739948469183,0.284,6.042253521126761,TRUE,Crosses 0,"95% HDI=[-0.563, 0.203]
+Cross 0? Yes (Crosses 0)
+P(Δ>0)=0.142
+Δ mean=-0.175"
+alpha,0.921,0.079,0.3101280360235978,-0.11354574955271342,0.7337536686188797,0.158,11.658227848101266,TRUE,Crosses 0,"95% HDI=[-0.114, 0.734]
+Cross 0? Yes (Crosses 0)
+P(Δ>0)=0.921
+Δ mean=0.310"
+gamma,0.187,0.813,-0.05682947699569758,-0.1829240174866721,0.06654338934075983,0.374,4.347593582887701,TRUE,Crosses 0,"95% HDI=[-0.183, 0.067]
+Cross 0? Yes (Crosses 0)
+P(Δ>0)=0.187
+Δ mean=-0.057"

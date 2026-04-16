@@ -1,0 +1,10 @@
+﻿Follow-up Bayesian fit (.rds) folders kept in original locations:
+
+- followup (rds files: 8)
+- followup_gamma_only (rds files: 8)
+- followup_regret (rds files: 1)
+- followup_5param_bias_lapse (rds files: 2)
+- followup_behavioral_context (rds files: 1)
+- followup_value_based (rds files: 2)
+
+This package includes code + analysis outputs and excludes heavy .rds binaries.

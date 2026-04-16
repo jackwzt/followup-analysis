@@ -1,0 +1,7 @@
+Model B parameter recovery summary
+Sampling settings: iter=1000 warmup=500 chains=4 adapt_delta=0.97 max_treedepth=12
+
+alpha: mean Pearson r=0.288, min Pearson r=-0.042, mean Spearman rho=0.251, mean RMSE=0.185, mean |bias|=0.101, zero-in-HDI tasks=7/8
+beta: mean Pearson r=0.701, min Pearson r=0.426, mean Spearman rho=0.651, mean RMSE=5.616, mean |bias|=2.199, zero-in-HDI tasks=8/8
+eta_decay: mean Pearson r=0.217, min Pearson r=0.039, mean Spearman rho=0.204, mean RMSE=0.128, mean |bias|=0.095, zero-in-HDI tasks=4/8
+gamma: mean Pearson r=0.832, min Pearson r=0.782, mean Spearman rho=0.804, mean RMSE=0.357, mean |bias|=0.044, zero-in-HDI tasks=8/8

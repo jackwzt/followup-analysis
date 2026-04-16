@@ -1,0 +1,6 @@
+analysis_set,source,target,estimate,std_error,z_value,p_value,pass
+sensitivity_fullsample,GLMM,TPTP,0.20486637073356104,0.08316296281077269,2.463432804813722,0.013761368739786192,TRUE
+sensitivity_fullsample,GLMM,ChoiceFrameAccept,-0.1835863627305543,0.08314727315819741,-2.2079661275392612,0.027246634474117123,TRUE
+sensitivity_fullsample,Bayes,Time Pressure_risky_prob,0.012950806802664909,NA,NA,0,TRUE
+sensitivity_fullsample,Bayes,Choice Frame_risky_prob,-0.02464797007159235,NA,NA,0,TRUE
+sensitivity_fullsample,Bayes,Feedback_risky_prob,0.04161723644649067,NA,NA,0,TRUE

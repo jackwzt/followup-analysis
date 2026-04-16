@@ -1,0 +1,25 @@
+task,task_label,feedback,frame,time_pressure,param_type,mean_of_participant_means,sd_of_participant_means,median_of_participant_means
+FullcrossNoTimelimited,Full | Reject | No TP,Full,Reject,No TP,alpha,0.4487171271193106,0.05046458903625416,0.4625010177405107
+FullcrossTimelimited,Full | Reject | TP,Full,Reject,TP,alpha,0.6968658871282286,0.03521850646753961,0.6961295698527853
+FulltickNoTimelimited,Full | Accept | No TP,Full,Accept,No TP,alpha,0.8222339145149008,0.062478080577694516,0.8155100030553345
+FulltickTimelimited,Full | Accept | TP,Full,Accept,TP,alpha,0.4754484236003361,0.09750853396196392,0.4873074731338697
+PartialcrossNoTimelimited,Partial | Reject | No TP,Partial,Reject,No TP,alpha,1.5668547657202803,0.11322109737979237,1.5648061678561418
+PartialcrossTimelimited,Partial | Reject | TP,Partial,Reject,TP,alpha,1.3122847475006028,0.06860675713223258,1.317341830957964
+PartialtickNoTimelimited,Partial | Accept | No TP,Partial,Accept,No TP,alpha,2.0268476234789916,0.06913041496186145,2.0194645637372295
+PartialtickTimelimited,Partial | Accept | TP,Partial,Accept,TP,alpha,1.980854299395645,0.1704573044514736,1.9938049681502665
+FullcrossNoTimelimited,Full | Reject | No TP,Full,Reject,No TP,beta,0.019762166389459226,0.05415906294078019,0.01674770073659641
+FullcrossTimelimited,Full | Reject | TP,Full,Reject,TP,beta,0.07631930640671274,0.04275439600592516,0.08308988789928365
+FulltickNoTimelimited,Full | Accept | No TP,Full,Accept,No TP,beta,-0.09356735386303927,0.04248514326172384,-0.09092442086213028
+FulltickTimelimited,Full | Accept | TP,Full,Accept,TP,beta,0.025829836010758916,0.04189080178565631,0.02802884051463543
+PartialcrossNoTimelimited,Partial | Reject | No TP,Partial,Reject,No TP,beta,-0.5206334183577888,0.6671444193617151,-0.49154716033126356
+PartialcrossTimelimited,Partial | Reject | TP,Partial,Reject,TP,beta,-0.1969430335575831,0.4269912636230347,-0.18972178218603614
+PartialtickNoTimelimited,Partial | Accept | No TP,Partial,Accept,No TP,beta,-0.8862233535171796,0.4953027039851068,-0.865069346782281
+PartialtickTimelimited,Partial | Accept | TP,Partial,Accept,TP,beta,-0.9479886966495208,0.29682644187178814,-0.9411974943777504
+FullcrossNoTimelimited,Full | Reject | No TP,Full,Reject,No TP,gamma,-0.04718291177733662,0.448982606701356,0.017417340427771842
+FullcrossTimelimited,Full | Reject | TP,Full,Reject,TP,gamma,0.06969235736704657,0.5727764960451376,-0.03351069550655422
+FulltickNoTimelimited,Full | Accept | No TP,Full,Accept,No TP,gamma,-0.058311101328847495,0.4740069050548344,-0.055790077908357716
+FulltickTimelimited,Full | Accept | TP,Full,Accept,TP,gamma,0.10470616560275826,0.5748334135166654,0.06711787529932012
+PartialcrossNoTimelimited,Partial | Reject | No TP,Partial,Reject,No TP,gamma,0.25422362014962485,0.5039532155296231,0.2715828369087452
+PartialcrossTimelimited,Partial | Reject | TP,Partial,Reject,TP,gamma,0.4684086266235452,0.5105091075934768,0.49046545991068335
+PartialtickNoTimelimited,Partial | Accept | No TP,Partial,Accept,No TP,gamma,0.1807658026451601,0.45229228512947856,0.1828923674990992
+PartialtickTimelimited,Partial | Accept | TP,Partial,Accept,TP,gamma,0.27945002564402033,0.4138826873012447,0.3089983457559832

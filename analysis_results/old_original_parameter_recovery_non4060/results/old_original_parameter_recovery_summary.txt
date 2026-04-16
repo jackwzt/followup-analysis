@@ -1,0 +1,6 @@
+Old original model parameter recovery summary
+Sampling settings: iter=1000 warmup=500 chains=4 adapt_delta=0.97 max_treedepth=12
+
+alpha: mean Pearson r=0.010, min Pearson r=-0.116, mean Spearman rho=-0.020, mean RMSE=0.569, mean |bias|=0.464, zero-in-HDI tasks=4/8
+beta: mean Pearson r=0.135, min Pearson r=-0.220, mean Spearman rho=0.047, mean RMSE=0.528, mean |bias|=0.207, zero-in-HDI tasks=7/8
+gamma: mean Pearson r=0.856, min Pearson r=0.810, mean Spearman rho=0.831, mean RMSE=0.288, mean |bias|=0.035, zero-in-HDI tasks=8/8

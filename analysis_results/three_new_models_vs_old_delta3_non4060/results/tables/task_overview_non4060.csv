@@ -1,0 +1,9 @@
+task,feedback,time_pressure,frame,n_participants,n_trials,n_obs
+FullcrossNoTimelimited,Full,No TP,Reject,65,40,2600
+FullcrossTimelimited,Full,TP,Reject,65,40,2600
+FulltickNoTimelimited,Full,No TP,Accept,65,40,2600
+FulltickTimelimited,Full,TP,Accept,65,40,2600
+PartialcrossNoTimelimited,Partial,No TP,Reject,56,40,2240
+PartialcrossTimelimited,Partial,TP,Reject,56,40,2240
+PartialtickNoTimelimited,Partial,No TP,Accept,56,40,2240
+PartialtickTimelimited,Partial,TP,Accept,56,40,2240

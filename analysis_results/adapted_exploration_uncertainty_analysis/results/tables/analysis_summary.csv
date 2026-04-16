@@ -1,0 +1,2 @@
+dataset,n_rows,n_participants,n_tasks,best_repo_style_model,best_repo_style_AIC,choice_factor_AIC,rt_factor_AIC
+non4060_8tasks,19356,121,8,V + RU + VTU,25974.631322798963,25759.468689059573,36200.91258454109

@@ -1,0 +1,10 @@
+effect,contrast,parameter,diff_mean,diff_hdi95_lo,diff_hdi95_hi,hdi95_crosses_zero,hdi95_direction,credible_nonzero_95hdi,p_gt0,posterior_tail_p
+Time Pressure,TP - No TP,beta_restored,0.1036179332988015,-0.2700212905864025,0.4919935892722611,True,Crosses 0,False,0.7426666666666667,0.5146666666666667
+Time Pressure,TP - No TP,alpha,-0.1021621290102603,-0.5389129447140806,0.3276074322327289,True,Crosses 0,False,0.3255,0.651
+Time Pressure,TP - No TP,gamma,0.145258092885845,0.0217563444972157,0.2688134525393764,False,Above 0,True,0.99,0.02
+Feedback,Full - Partial,beta_restored,0.3871453533239277,0.0245532367383052,0.8002101364117871,False,Above 0,True,0.9791666666666666,0.0416666666666666
+Feedback,Full - Partial,alpha,-1.0805334548157477,-1.51957299268284,-0.6571992506495181,False,Below 0,True,0.0,0.0
+Feedback,Full - Partial,gamma,-0.2737149221304069,-0.3959508785964974,-0.1487550721023693,False,Below 0,True,0.0,0.0
+Choice Frame,Accept - Reject,beta_restored,-0.1747944513665661,-0.5627711907032332,0.2030973994846918,True,Crosses 0,False,0.142,0.284
+Choice Frame,Accept - Reject,alpha,0.3101280360235978,-0.1135457495527134,0.7337536686188797,True,Crosses 0,False,0.921,0.158
+Choice Frame,Accept - Reject,gamma,-0.0568294769956975,-0.1829240174866721,0.0665433893407598,True,Crosses 0,False,0.187,0.374

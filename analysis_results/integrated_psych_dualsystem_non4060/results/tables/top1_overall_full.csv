@@ -1,0 +1,2 @@
+scope,n_tasks,total_obs,top1_weighted,top1_unweighted
+weighted_by_trials,8,19360,0.6643595041322314,0.6665951236263736

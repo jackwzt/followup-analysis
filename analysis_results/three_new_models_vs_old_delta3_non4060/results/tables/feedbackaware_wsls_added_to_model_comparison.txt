@@ -1,0 +1,6 @@
+Added model: Feedback-aware Noisy WSLS
+weighted_top1=0.6529
+sum_elpd_loo=-11913.6142
+sum_elpd_waic=-11913.2866
+overall_rank=5
+scope_note=Trials 2-40 only; first trial excluded

@@ -1,0 +1,3 @@
+stage,sampled_now,elapsed_sec,iter,warmup,chains,adapt_delta,max_treedepth
+pilot,FALSE,20.43848705291748,1000,500,4,0.97,12
+full,TRUE,11609.158464193344,2000,1000,4,0.99,13

@@ -1,0 +1,9 @@
+task,n_obs,top1
+FullcrossNoTimelimited,2535,0.58698224852071
+FullcrossTimelimited,2535,0.5968441814595661
+FulltickNoTimelimited,2535,0.609861932938856
+FulltickTimelimited,2535,0.6149901380670612
+PartialcrossNoTimelimited,2184,0.6666666666666666
+PartialcrossTimelimited,2184,0.6652930402930403
+PartialtickNoTimelimited,2184,0.6657509157509157
+PartialtickTimelimited,2184,0.6781135531135531

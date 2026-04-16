@@ -1,0 +1,2 @@
+model,n_divergent,n_max_treedepth,max_rhat,min_n_eff,draws,n_obs,elpd_loo,se_elpd_loo,looic,p_loo,elpd_waic,se_elpd_waic,waic,p_waic,pareto_k_gt_0_7,pareto_k_gt_1
+noisy_wsls_feedbackaware_non4060,0,0,1.0060336665431684,726.7296828462989,4000,18876,-11913.614166402162,45.14578689758169,23827.228332804323,220.11569682914174,-11913.286589076588,45.143785145453,23826.573178153176,219.78811950333096,0,0

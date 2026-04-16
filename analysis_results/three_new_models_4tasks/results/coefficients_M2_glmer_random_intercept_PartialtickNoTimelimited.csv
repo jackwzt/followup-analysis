@@ -1,0 +1,5 @@
+task,model,term,Estimate,Std. Error,z value,Pr(>|z|)
+PartialtickNoTimelimited,M2_glmer_random_intercept,(Intercept),-0.1766490057567613,0.12124435960640229,-1.4569667927664436,0.1451255469073705
+PartialtickNoTimelimited,M2_glmer_random_intercept,mu_diff_z,1.5695961001641672,0.15726004736178104,9.980895507129464,1.8479138497911066e-23
+PartialtickNoTimelimited,M2_glmer_random_intercept,sd_diff_z,1.1890889672809135,0.14501463964192488,8.199785692100141,2.4081595392994196e-16
+PartialtickNoTimelimited,M2_glmer_random_intercept,prev_left,0.07734749131609131,0.10259897850172961,0.7538816901065676,0.4509202659749018

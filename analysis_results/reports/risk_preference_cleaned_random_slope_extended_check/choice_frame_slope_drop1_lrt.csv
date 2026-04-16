@@ -1,0 +1,3 @@
+"npar","AIC","LRT","Pr(Chi)","term"
+NA,7918.01661011725,NA,NA,"<none>"
+3,7914.98211185181,2.96550173456126,0.396974770763042,"Blocks:Time_Pressure:Choice_Frame:Feedback_Type"

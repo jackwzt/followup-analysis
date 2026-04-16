@@ -1,0 +1,27 @@
+Risky-choice adapted exploration uncertainty analysis (non4060 tasks)
+Rows: 19360
+Participants: 121
+Tasks: 8
+
+Best repo-style risky-choice model by AIC: V_risky + RU_risky + VTU_risky
+Best repo-style model AIC: 25967.80
+Risky-choice uncertainty GLMM top-1 accuracy, conditional: 0.5919
+Risky-choice uncertainty GLMM top-1 accuracy, fixed effects only: 0.5647
+
+Significant Full/TP/Frame uncertainty-exploration contrasts (p < .05):
+Accept - Reject | Risky-choice bias: est=-0.0529, 95%CI [-0.0902, -0.0155], p=0.00558
+Full - Partial | Relative uncertainty slope (RU_risky): est=-7.8851, 95%CI [-12.6402, -3.1300], p=0.00115
+
+Top risky-choice factor-model terms by smallest p-value:
+(Intercept): est=-0.1797, p=1.52e-11
+RU_risky_z: est=0.4420, p=1.73e-11
+V_risky_z: est=0.5060, p=8.37e-11
+RU_risky_z:feedback_typefull: est=-7.8851, p=0.00115
+frameaccept: est=-0.0529, p=0.00558
+V_risky_z:pressuretp: est=-0.1408, p=0.0754
+V_risky_z:feedback_typefull: est=-0.1955, p=0.0844
+pressuretp: est=0.0311, p=0.104
+feedback_typefull: est=-0.1790, p=0.164
+RU_risky_z:pressuretp: est=-0.0897, p=0.198
+VTU_risky_z:pressuretp: est=0.0463, p=0.249
+V_risky_z:frameaccept: est=0.0678, p=0.398

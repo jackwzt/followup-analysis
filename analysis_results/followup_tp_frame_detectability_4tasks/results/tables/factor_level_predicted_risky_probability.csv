@@ -1,0 +1,25 @@
+analysis_set,factor,level,predicted,source
+primary_manipulation_pass,Time Pressure,NoTP,0.4400828326805402,GLMM
+primary_manipulation_pass,Time Pressure,TP,0.48297222076794405,GLMM
+primary_manipulation_pass,Choice Frame,Accept,0.4281957541066593,GLMM
+primary_manipulation_pass,Choice Frame,Reject,0.494859299341825,GLMM
+primary_manipulation_pass,Feedback,Full,0.5044291165845994,GLMM
+primary_manipulation_pass,Feedback,Partial,0.4095255996207787,GLMM
+sensitivity_fullsample,Time Pressure,NoTP,0.4438126101358698,GLMM
+sensitivity_fullsample,Time Pressure,TP,0.490141955289204,GLMM
+sensitivity_fullsample,Choice Frame,Accept,0.44666822576802173,GLMM
+sensitivity_fullsample,Choice Frame,Reject,0.48728633965705204,GLMM
+sensitivity_fullsample,Feedback,Full,0.5122143740545719,GLMM
+sensitivity_fullsample,Feedback,Partial,0.41446994454767483,GLMM
+primary_manipulation_pass,Time Pressure,TP,0.4918817116501269,Bayes
+primary_manipulation_pass,Time Pressure,NoTP,0.4798779435711114,Bayes
+primary_manipulation_pass,Choice Frame,Accept,0.4715029619242202,Bayes
+primary_manipulation_pass,Choice Frame,Reject,0.5001215523552569,Bayes
+primary_manipulation_pass,Feedback,Full,0.5034280162485979,Bayes
+primary_manipulation_pass,Feedback,Partial,0.4642195071859547,Bayes
+sensitivity_fullsample,Time Pressure,TP,0.49313591705986287,Bayes
+sensitivity_fullsample,Time Pressure,NoTP,0.48018511025719796,Bayes
+sensitivity_fullsample,Choice Frame,Accept,0.47389407670059885,Bayes
+sensitivity_fullsample,Choice Frame,Reject,0.49854204677219116,Bayes
+sensitivity_fullsample,Feedback,Full,0.505553150032514,Bayes
+sensitivity_fullsample,Feedback,Partial,0.46393591358602326,Bayes

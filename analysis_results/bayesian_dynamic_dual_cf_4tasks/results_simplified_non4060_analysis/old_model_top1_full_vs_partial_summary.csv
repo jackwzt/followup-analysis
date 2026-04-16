@@ -1,0 +1,5 @@
+scope,feedback,n_tasks,n_participants_total,overall_top1_weighted,unweighted_task_mean
+non4060,Full,4,260,0.6649038461538461,0.6649038461538461
+non4060,Partial,4,224,0.7322544642857143,0.7322544642857143
+all_tasks_in_results,Full,5,325,0.7102307692307692,0.7102307692307692
+all_tasks_in_results,Partial,5,280,0.7513392857142858,0.7513392857142858

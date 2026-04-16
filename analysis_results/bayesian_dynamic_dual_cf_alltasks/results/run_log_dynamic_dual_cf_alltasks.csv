@@ -1,0 +1,11 @@
+task,status,note,elapsed_sec
+FullcrossNoTimelimited,success,,244.46124505996704
+FullcrossTimelimited,success,,348.8511338233948
+FulltickNoTimelimited,success,,283.74298191070557
+FulltickNoTimelimited4060,success,,151.54299187660217
+FulltickTimelimited,success,,147.79537320137024
+PartialcrossNoTimelimited,success,,152.9259958267212
+PartialcrossTimelimited,success,,136.3819921016693
+PartialtickNoTimelimited,success,,126.08097004890442
+PartialtickNoTimelimited4060,success,,126.75846314430237
+PartialtickTimelimited,success,,159.10838294029236

@@ -1,0 +1,2 @@
+mode,sampled_now,elapsed_sec,iter,warmup,chains,adapt_delta,max_treedepth,total_chain_iterations,postwarmup_draws_total
+full,TRUE,7538.3966999053955,2000,1000,4,0.97,12,8000,4000

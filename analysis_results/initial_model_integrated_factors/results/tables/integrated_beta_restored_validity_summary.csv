@@ -1,0 +1,2 @@
+metric,mean_valid_ratio,q05,q50,q95
+beta_restored_valid_ratio_abs_alpha_gt_1e-6,1,1,1,1

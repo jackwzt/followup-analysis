@@ -1,0 +1,9 @@
+feedback,tp_f,frame_f,n_trials
+Full,No TP,Reject,2600
+Full,No TP,Accept,2600
+Full,TP,Reject,2600
+Full,TP,Accept,2600
+Partial,No TP,Reject,2240
+Partial,No TP,Accept,2240
+Partial,TP,Reject,2240
+Partial,TP,Accept,2240

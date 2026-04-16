@@ -1,0 +1,9 @@
+task,top1_accuracy,n_obs,feedback,time_pressure,frame
+FullcrossNoTimelimited,0.6373076923076924,2600,Full,No TP,Reject
+FullcrossTimelimited,0.6192307692307693,2600,Full,TP,Reject
+FulltickNoTimelimited,0.6365384615384615,2600,Full,No TP,Accept
+FulltickTimelimited,0.6530769230769231,2600,Full,TP,Accept
+PartialcrossNoTimelimited,0.6790178571428571,2240,Partial,No TP,Reject
+PartialcrossTimelimited,0.6732142857142858,2240,Partial,TP,Reject
+PartialtickNoTimelimited,0.7040178571428571,2240,Partial,No TP,Accept
+PartialtickTimelimited,0.7303571428571428,2240,Partial,TP,Accept

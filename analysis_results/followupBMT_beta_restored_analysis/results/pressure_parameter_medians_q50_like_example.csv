@@ -1,0 +1,7 @@
+parameter,pressure,q50
+alpha,Limited Time,1.0010154949230965
+alpha,Unlimited Time,1.1702492345652782
+beta_restored,Limited Time,-0.12062556696322314
+beta_restored,Unlimited Time,-0.2666667763419339
+gamma,Limited Time,0.19840179721876966
+gamma,Unlimited Time,0.06609315459977284

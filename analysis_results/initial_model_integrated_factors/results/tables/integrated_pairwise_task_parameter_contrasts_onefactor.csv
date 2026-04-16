@@ -1,0 +1,37 @@
+changed_factor,contrast_label,fixed_context,task_plus,task_minus,parameter,diff_mean,diff_hdi95_lo,diff_hdi95_hi,hdi95_crosses_zero,hdi95_direction,p_gt0,posterior_tail_p
+Choice Frame,Accept - Reject,"Feedback=Full, TP=No TP",FulltickNoTimelimited,FullcrossNoTimelimited,alpha,0.7166972877438683,0.10812088671736834,1.3193712020232629,FALSE,Above 0,0.99175,0.0165
+Choice Frame,Accept - Reject,"Feedback=Full, TP=No TP",FulltickNoTimelimited,FullcrossNoTimelimited,beta,-0.032330984240513526,-0.5658147827143275,0.49360360580594276,TRUE,Crosses 0,0.45725,0.9145
+Choice Frame,Accept - Reject,"Feedback=Full, TP=No TP",FulltickNoTimelimited,FullcrossNoTimelimited,gamma,-0.04583556237022881,-0.10910137795009268,0.01372057573732049,TRUE,Crosses 0,0.07325,0.1465
+Choice Frame,Accept - Reject,"Feedback=Full, TP=TP",FulltickTimelimited,FullcrossTimelimited,alpha,0.7166972877438683,0.10812088671736834,1.3193712020232629,FALSE,Above 0,0.99175,0.0165
+Choice Frame,Accept - Reject,"Feedback=Full, TP=TP",FulltickTimelimited,FullcrossTimelimited,beta,-0.032330984240513526,-0.5658147827143273,0.49360360580594276,TRUE,Crosses 0,0.45725,0.9145
+Choice Frame,Accept - Reject,"Feedback=Full, TP=TP",FulltickTimelimited,FullcrossTimelimited,gamma,-0.04583556237022881,-0.10910137795009267,0.013720575737320518,TRUE,Crosses 0,0.07325,0.1465
+Choice Frame,Accept - Reject,"Feedback=Partial, TP=No TP",PartialtickNoTimelimited,PartialcrossNoTimelimited,alpha,0.7166972877438683,0.10812088671736834,1.3193712020232633,FALSE,Above 0,0.99175,0.0165
+Choice Frame,Accept - Reject,"Feedback=Partial, TP=No TP",PartialtickNoTimelimited,PartialcrossNoTimelimited,beta,-0.03233098424051352,-0.5658147827143271,0.49360360580594276,TRUE,Crosses 0,0.45725,0.9145
+Choice Frame,Accept - Reject,"Feedback=Partial, TP=No TP",PartialtickNoTimelimited,PartialcrossNoTimelimited,gamma,-0.04583556237022881,-0.10910137795009266,0.013720575737320516,TRUE,Crosses 0,0.07325,0.1465
+Choice Frame,Accept - Reject,"Feedback=Partial, TP=TP",PartialtickTimelimited,PartialcrossTimelimited,alpha,0.7166972877438683,0.10812088671736834,1.3193712020232629,FALSE,Above 0,0.99175,0.0165
+Choice Frame,Accept - Reject,"Feedback=Partial, TP=TP",PartialtickTimelimited,PartialcrossTimelimited,beta,-0.03233098424051352,-0.5658147827143271,0.49360360580594276,TRUE,Crosses 0,0.45725,0.9145
+Choice Frame,Accept - Reject,"Feedback=Partial, TP=TP",PartialtickTimelimited,PartialcrossTimelimited,gamma,-0.04583556237022881,-0.10910137795009266,0.013720575737320516,TRUE,Crosses 0,0.07325,0.1465
+Feedback,Full - Partial,"TP=No TP, Frame=Accept",FulltickNoTimelimited,PartialtickNoTimelimited,alpha,-1.030800807128364,-1.7491619893177064,-0.283590714289752,FALSE,Below 0,0.00425,0.0085
+Feedback,Full - Partial,"TP=No TP, Frame=Accept",FulltickNoTimelimited,PartialtickNoTimelimited,beta,-1.2278147514548208,-2.109105654470711,-0.34573563226735504,FALSE,Below 0,0.004,0.008
+Feedback,Full - Partial,"TP=No TP, Frame=Accept",FulltickNoTimelimited,PartialtickNoTimelimited,gamma,-0.35150409854203735,-0.5439780207739655,-0.15640833066163118,FALSE,Below 0,2.5e-4,5e-4
+Feedback,Full - Partial,"TP=No TP, Frame=Reject",FullcrossNoTimelimited,PartialcrossNoTimelimited,alpha,-1.030800807128364,-1.749161989317706,-0.283590714289752,FALSE,Below 0,0.00425,0.0085
+Feedback,Full - Partial,"TP=No TP, Frame=Reject",FullcrossNoTimelimited,PartialcrossNoTimelimited,beta,-1.2278147514548208,-2.109105654470711,-0.34573563226735504,FALSE,Below 0,0.004,0.008
+Feedback,Full - Partial,"TP=No TP, Frame=Reject",FullcrossNoTimelimited,PartialcrossNoTimelimited,gamma,-0.35150409854203735,-0.5439780207739655,-0.15640833066163118,FALSE,Below 0,2.5e-4,5e-4
+Feedback,Full - Partial,"TP=TP, Frame=Accept",FulltickTimelimited,PartialtickTimelimited,alpha,-1.030800807128364,-1.749161989317706,-0.283590714289752,FALSE,Below 0,0.00425,0.0085
+Feedback,Full - Partial,"TP=TP, Frame=Accept",FulltickTimelimited,PartialtickTimelimited,beta,-1.2278147514548208,-2.109105654470711,-0.34573563226735504,FALSE,Below 0,0.004,0.008
+Feedback,Full - Partial,"TP=TP, Frame=Accept",FulltickTimelimited,PartialtickTimelimited,gamma,-0.35150409854203735,-0.5439780207739655,-0.1564083306616312,FALSE,Below 0,2.5e-4,5e-4
+Feedback,Full - Partial,"TP=TP, Frame=Reject",FullcrossTimelimited,PartialcrossTimelimited,alpha,-1.030800807128364,-1.749161989317706,-0.283590714289752,FALSE,Below 0,0.00425,0.0085
+Feedback,Full - Partial,"TP=TP, Frame=Reject",FullcrossTimelimited,PartialcrossTimelimited,beta,-1.2278147514548208,-2.109105654470711,-0.34573563226735504,FALSE,Below 0,0.004,0.008
+Feedback,Full - Partial,"TP=TP, Frame=Reject",FullcrossTimelimited,PartialcrossTimelimited,gamma,-0.35150409854203735,-0.5439780207739656,-0.15640833066163115,FALSE,Below 0,2.5e-4,5e-4
+Time Pressure,TP - No TP,"Feedback=Full, Frame=Accept",FulltickTimelimited,FulltickNoTimelimited,alpha,-0.30091320923337905,-0.9102904460394171,0.3123198551726652,TRUE,Crosses 0,0.16675,0.3335
+Time Pressure,TP - No TP,"Feedback=Full, Frame=Accept",FulltickTimelimited,FulltickNoTimelimited,beta,0.10283118704971607,-0.43651183041842917,0.6393894099608232,TRUE,Crosses 0,0.63825,0.7235
+Time Pressure,TP - No TP,"Feedback=Full, Frame=Accept",FulltickTimelimited,FulltickNoTimelimited,gamma,0.14107103959235562,0.08177783102263034,0.19991120761738346,FALSE,Above 0,1,0
+Time Pressure,TP - No TP,"Feedback=Full, Frame=Reject",FullcrossTimelimited,FullcrossNoTimelimited,alpha,-0.30091320923337905,-0.9102904460394171,0.3123198551726652,TRUE,Crosses 0,0.16675,0.3335
+Time Pressure,TP - No TP,"Feedback=Full, Frame=Reject",FullcrossTimelimited,FullcrossNoTimelimited,beta,0.10283118704971607,-0.43651183041842917,0.6393894099608232,TRUE,Crosses 0,0.63825,0.7235
+Time Pressure,TP - No TP,"Feedback=Full, Frame=Reject",FullcrossTimelimited,FullcrossNoTimelimited,gamma,0.14107103959235562,0.08177783102263034,0.19991120761738346,FALSE,Above 0,1,0
+Time Pressure,TP - No TP,"Feedback=Partial, Frame=Accept",PartialtickTimelimited,PartialtickNoTimelimited,alpha,-0.30091320923337905,-0.9102904460394171,0.3123198551726652,TRUE,Crosses 0,0.16675,0.3335
+Time Pressure,TP - No TP,"Feedback=Partial, Frame=Accept",PartialtickTimelimited,PartialtickNoTimelimited,beta,0.10283118704971607,-0.43651183041842956,0.6393894099608236,TRUE,Crosses 0,0.63825,0.7235
+Time Pressure,TP - No TP,"Feedback=Partial, Frame=Accept",PartialtickTimelimited,PartialtickNoTimelimited,gamma,0.14107103959235562,0.08177783102263031,0.19991120761738346,FALSE,Above 0,1,0
+Time Pressure,TP - No TP,"Feedback=Partial, Frame=Reject",PartialcrossTimelimited,PartialcrossNoTimelimited,alpha,-0.30091320923337905,-0.9102904460394171,0.3123198551726652,TRUE,Crosses 0,0.16675,0.3335
+Time Pressure,TP - No TP,"Feedback=Partial, Frame=Reject",PartialcrossTimelimited,PartialcrossNoTimelimited,beta,0.10283118704971607,-0.43651183041842956,0.6393894099608236,TRUE,Crosses 0,0.63825,0.7235
+Time Pressure,TP - No TP,"Feedback=Partial, Frame=Reject",PartialcrossTimelimited,PartialcrossNoTimelimited,gamma,0.14107103959235562,0.08177783102263031,0.1999112076173834,FALSE,Above 0,1,0

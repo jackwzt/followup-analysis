@@ -1,0 +1,31 @@
+Adapted exploration uncertainty analysis (non4060 tasks)
+Rows: 19356
+Participants: 121
+Tasks: 8
+
+Best repo-style choice model by AIC: V + RU + VTU
+Best repo-style model AIC: 25974.63
+
+Top choice-model terms by smallest p-value:
+V_z: est=0.5897, p=6.05e-15
+RU_z: est=0.4548, p=8.07e-13
+(Intercept): est=-0.1068, p=0.000691
+V_z:feedback_typefull: est=-0.3400, p=0.000696
+pressuretp: est=0.0604, p=0.00161
+feedback_typefull: est=0.3097, p=0.00278
+framereject: est=0.0459, p=0.0171
+RU_z:feedback_typefull: est=-2.7552, p=0.0186
+V_z:pressuretp: est=-0.1839, p=0.0221
+VTU_z:pressuretp: est=0.0755, p=0.064
+
+Top RT-model terms by smallest p-value:
+pressuretp: est=-0.9361, p=0
+(Intercept): est=6.3327, p=3.07e-152
+TU_z: est=0.1563, p=1.46e-29
+V_z:feedback_typefull: est=0.2184, p=2.85e-14
+RU_z: est=0.1004, p=4.78e-08
+TU_z:framereject: est=0.0484, p=3.8e-07
+V_z: est=0.0910, p=7.5e-06
+feedback_typefull: est=0.2710, p=6.94e-05
+V_z:pressuretp: est=-0.0646, p=0.00041
+RU_z:pressuretp: est=-0.0643, p=0.000564

@@ -1,0 +1,7 @@
+task,model,term,Estimate,Std. Error,z value,Pr(>|z|)
+PartialcrossNoTimelimited,M3_glmer_nonlinear_interaction,(Intercept),-0.32613515400098547,0.09669411250809845,-3.3728543087219562,7.439330475787468e-4
+PartialcrossNoTimelimited,M3_glmer_nonlinear_interaction,"poly(mu_diff_z, 2, raw = TRUE)1",1.4617391656093146,0.1796915661010295,8.134712147744702,4.129182887396627e-16
+PartialcrossNoTimelimited,M3_glmer_nonlinear_interaction,"poly(mu_diff_z, 2, raw = TRUE)2",0.1172447253581911,0.029939604842323348,3.9160411760829628,9.0014880696828e-5
+PartialcrossNoTimelimited,M3_glmer_nonlinear_interaction,sd_diff_z,0.9207024542824278,0.11239651299125353,8.191557102434976,2.5786802253323323e-16
+PartialcrossNoTimelimited,M3_glmer_nonlinear_interaction,prev_left,0.3468643914446565,0.09968710338363442,3.4795312499931765,5.022917848647692e-4
+PartialcrossNoTimelimited,M3_glmer_nonlinear_interaction,prev_left:mu_diff_z,-0.8214116599728628,0.21988275471978735,-3.735680231128847,1.8720843917183964e-4

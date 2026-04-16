@@ -1,0 +1,9 @@
+task,status,note,elapsed_sec
+FullcrossNoTimelimited,success,reused_existing_fit,3.1413509845733643
+FullcrossTimelimited,success,reused_existing_fit,2.2103939056396484
+FulltickNoTimelimited,success,reused_existing_fit,2.1840670108795166
+FulltickTimelimited,success,reused_existing_fit,2.231139898300171
+PartialcrossNoTimelimited,success,reused_existing_fit,1.9143240451812744
+PartialcrossTimelimited,success,reused_existing_fit,1.9331488609313965
+PartialtickNoTimelimited,success,reused_existing_fit,1.882972002029419
+PartialtickTimelimited,success,reused_existing_fit,1.8977770805358887

@@ -1,0 +1,2 @@
+model,new_top1_weighted,old_top1_weighted,threshold_old_minus_0_02,pass_not_lower_than_old_minus_0_02
+alias_nonident_qlearning,0.6861570247933885,0.653047520661157,0.633047520661157,TRUE

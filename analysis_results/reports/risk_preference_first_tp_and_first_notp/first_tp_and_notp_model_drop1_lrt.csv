@@ -1,0 +1,3 @@
+npar,AIC,LRT,Pr(Chi),term
+NA,13267.676131285612,NA,NA,<none>
+3,13267.468514529679,5.792383244066514,0.12215991636457328,Blocks:Choice_Frame:Feedback_Type:timepressure

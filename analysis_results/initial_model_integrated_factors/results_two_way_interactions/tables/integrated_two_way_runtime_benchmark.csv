@@ -1,0 +1,2 @@
+mode,sampled_now,elapsed_sec,iter,warmup,chains,adapt_delta,max_treedepth,total_chain_iterations,postwarmup_draws_total
+benchmark,FALSE,3.835344076156616,300,150,2,0.97,12,600,300

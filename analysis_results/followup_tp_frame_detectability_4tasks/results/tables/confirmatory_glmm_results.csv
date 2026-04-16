@@ -1,0 +1,3 @@
+analysis_set,method,term,estimate,std_error,z_value,p_value,pass,model_spec
+primary_manipulation_pass,GLMM,TPTP,0.20866977506598414,0.12436441011021712,1.677889798866508,0.09336861435689986,FALSE,TP + ChoiceFrame + Feedback + Block_s + TP:ChoiceFrame + (1 + TP + ChoiceFrame | participant_id)
+primary_manipulation_pass,GLMM,ChoiceFrameAccept,-0.29549371082205844,0.12467154693910625,-2.3701776233384466,0.0177795413963879,TRUE,TP + ChoiceFrame + Feedback + Block_s + TP:ChoiceFrame + (1 + TP + ChoiceFrame | participant_id)

@@ -1,0 +1,5 @@
+analysis_set,method,term,estimate,std_error,z_value,p_value,pass,model_spec
+primary_manipulation_pass,GLMM,TPTP,0.20866977506598414,0.12436441011021712,1.677889798866508,0.09336861435689986,FALSE,TP + ChoiceFrame + Feedback + Block_s + TP:ChoiceFrame + (1 + TP + ChoiceFrame | participant_id)
+primary_manipulation_pass,GLMM,ChoiceFrameAccept,-0.29549371082205844,0.12467154693910625,-2.3701776233384466,0.0177795413963879,TRUE,TP + ChoiceFrame + Feedback + Block_s + TP:ChoiceFrame + (1 + TP + ChoiceFrame | participant_id)
+sensitivity_fullsample,GLMM,TPTP,0.20486637073356104,0.08316296281077269,2.463432804813722,0.013761368739786192,TRUE,TP + ChoiceFrame + Feedback + Block_s + TP:ChoiceFrame + (1 + TP + ChoiceFrame | participant_id)
+sensitivity_fullsample,GLMM,ChoiceFrameAccept,-0.1835863627305543,0.08314727315819741,-2.2079661275392612,0.027246634474117123,TRUE,TP + ChoiceFrame + Feedback + Block_s + TP:ChoiceFrame + (1 + TP + ChoiceFrame | participant_id)

@@ -1,0 +1,9 @@
+metric,value
+participants_observed,121
+participants_expected,120
+participants_with_complete_4task_60trial,0
+group_tp_median_rt_ms,270
+group_notp_median_rt_ms,543
+group_tp_faster_than_notp,1
+manipulation_pass_participants,73
+manipulation_pass_rate,0.6033057851239669

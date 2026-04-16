@@ -1,0 +1,4 @@
+comparison,param_type,n,mean_diff,sd_diff,t_stat,p_value,wilcox_p
+Full_only: TP - No TP,alpha,65,-0.049318365,0.062627487,-6.348927514,2.54E-08,3.75E-08
+Full_only: TP - No TP,beta,65,0.087977165,0.043201606,16.41824558,1.25E-24,3.41E-12
+Full_only: TP - No TP,gamma,65,0.139946268,0.447629172,2.520574962,0.014220052,0.028582052

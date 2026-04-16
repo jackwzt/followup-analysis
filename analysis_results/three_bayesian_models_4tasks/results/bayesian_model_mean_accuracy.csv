@@ -1,0 +1,4 @@
+model,mean_accuracy
+B3_five_parameter_bias_lapse,0.5640212482829671
+B2_regret_4parameter,0.5579997527472528
+B1_three_parameter,0.5572269453983516

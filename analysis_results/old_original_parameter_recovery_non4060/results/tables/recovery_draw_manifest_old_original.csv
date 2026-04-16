@@ -1,0 +1,9 @@
+task,draw_id,n_draws_available,n_participants
+FullcrossNoTimelimited,2590,6000,65
+FullcrossTimelimited,4544,6000,65
+FulltickNoTimelimited,557,6000,65
+FulltickTimelimited,4024,6000,65
+PartialcrossNoTimelimited,5,6000,56
+PartialcrossTimelimited,2666,6000,56
+PartialtickNoTimelimited,2594,6000,56
+PartialtickTimelimited,854,6000,56

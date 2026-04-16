@@ -1,0 +1,4 @@
+"model_a","model_b","Chisq","Df","p_value","note"
+"m0_intercept_only","m1_blocks_factor_slope",38.5463041033236,9,1.39055076427971e-05,""
+"m0_intercept_only","m2_blocks_factor_slope_uncorrelated",38.5463040985342,10,3.0477411063285e-05,""
+"m0_intercept_only","m3_blocks_numeric_slope",29.1350237039223,2,4.71422153719932e-07,""

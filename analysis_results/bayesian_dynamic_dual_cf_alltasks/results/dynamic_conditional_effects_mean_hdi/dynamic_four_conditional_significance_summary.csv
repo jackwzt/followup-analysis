@@ -1,0 +1,5 @@
+contrast,n_params,n_p_sig,n_bf_h1,n_bf_h0,n_hdi_exclude0
+Full: Accept - Reject,6,6,6,0,0
+Full: TP - No TP,6,6,6,0,0
+Partial: Accept - Reject,6,4,4,2,2
+Partial: TP - No TP,6,6,6,0,0

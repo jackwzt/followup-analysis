@@ -1,0 +1,2 @@
+timestamp,input_file,exclude_4060,n_trials_used,n_participants_used,n_lba_conditions,n_lba_success,rt_models,lba_models
+2026-03-18 11:11:16.984344,C:/Users/Jack/OneDrive/Desktop/follow up/bmtPreds_2armed_Fixed_wide_from_Pass4060_and_PartialPass4060_new.csv,TRUE,19360,121,484,484,"rt_model_full.rds, rt_model_partial.rds","lba_drift_model_full.rds, lba_drift_model_partial.rds"

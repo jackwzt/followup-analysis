@@ -1,0 +1,7 @@
+factor,level,n_obs,top1_accuracy
+Feedback,Full,10400,0.5921153846153846
+Feedback,Partial,8960,0.6627232142857142
+Time Pressure,No TP,9680,0.615909090909091
+Time Pressure,TP,9680,0.6336776859504132
+Choice Frame,Accept,9680,0.6256198347107438
+Choice Frame,Reject,9680,0.6239669421487604
