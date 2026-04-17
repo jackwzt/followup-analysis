@@ -1,0 +1,3 @@
+model,nobs,AIC,BIC,logLik,singular
+full_feedback_counterfactual_regret,10140,13363.495985605316,13421.289931822477,-6673.747992802658,FALSE
+partial_feedback_chosen_outcome,8736,11019.92355988236,11076.525221466238,-5501.96177994118,FALSE

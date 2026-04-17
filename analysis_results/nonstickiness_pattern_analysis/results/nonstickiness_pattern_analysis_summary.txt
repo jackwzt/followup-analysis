@@ -1,0 +1,25 @@
+Non-stickiness pattern analysis summary
+
+Rows after excluding 4060 tasks: 19360
+Rows with previous-choice information: 18876
+Participants: 121
+Tasks: 8
+
+Strongest controlled risky-choice effects:
+# A tibble: 12 × 7
+   analysis     estimate conf_low conf_high  p_value ci_crosses_zero significant
+   <chr>           <dbl>    <dbl>     <dbl>    <dbl> <lgl>           <lgl>      
+ 1 Switch afte…   0.428    0.378     0.478  1.51e-62 FALSE           TRUE       
+ 2 Partial fee…   0.253    0.203     0.303  6.02e-23 FALSE           TRUE       
+ 3 Partial fee…  -0.287   -0.388    -0.185  2.90e- 8 FALSE           TRUE       
+ 4 Previous ri…   0.204    0.0801    0.328  1.25e- 3 FALSE           TRUE       
+ 5 Full - Part…  -8.08   -13.2      -2.94   2.09e- 3 FALSE           TRUE       
+ 6 Full feedba…   0.408    0.140     0.677  2.89e- 3 FALSE           TRUE       
+ 7 Accept - Re…  -0.0533  -0.0907   -0.0159 5.21e- 3 FALSE           TRUE       
+ 8 Full feedba…  -0.164   -0.309    -0.0187 2.70e- 2 FALSE           TRUE       
+ 9 Full - Part…  -0.192   -0.414     0.0302 9.04e- 2 TRUE            FALSE      
+10 Full feedba…  -5.26   -11.6       1.03   1.01e- 1 TRUE            FALSE      
+11 Full - Part…  -0.194   -0.463     0.0748 1.57e- 1 TRUE            FALSE      
+12 Full - Part…   0.0524  -0.0391    0.144  2.62e- 1 TRUE            FALSE      
+
+Participant strategy clustering method: mclust_gaussian_mixture; selected k=3

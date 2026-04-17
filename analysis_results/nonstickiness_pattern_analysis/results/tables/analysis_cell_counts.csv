@@ -1,0 +1,9 @@
+task,feedback_type,pressure,frame,n_trials
+FullcrossNoTimelimited,full,no_tp,reject,2535
+FullcrossTimelimited,full,tp,reject,2535
+FulltickNoTimelimited,full,no_tp,accept,2535
+FulltickTimelimited,full,tp,accept,2535
+PartialcrossNoTimelimited,partial,no_tp,reject,2184
+PartialcrossTimelimited,partial,tp,reject,2184
+PartialtickNoTimelimited,partial,no_tp,accept,2184
+PartialtickTimelimited,partial,tp,accept,2184

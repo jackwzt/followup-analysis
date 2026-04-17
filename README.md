@@ -16,3 +16,5 @@ Key included result groups include:
 - Delta3 / Model A-B-C / WSLS / integrated model result summaries
 - parameter contrast tables and figures
 - report documents and publication-style plots
+- non-stickiness pattern analysis
+

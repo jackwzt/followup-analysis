@@ -1,0 +1,2 @@
+model,nobs,AIC,BIC,logLik,singular
+controlled_risky_choice,18876,24355.219756519837,24457.213161706837,-12164.609878259918,FALSE
