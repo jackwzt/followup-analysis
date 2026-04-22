@@ -1,0 +1,4 @@
+model_id,model_family,role,top1_weighted
+old_original_benchmark,Original BMT / hierarchical softmax,theory-linked baseline,0.6418904958677686
+modelB_decay,Model B: Decay-RL + Stickiness,main interpretable RL model,0.6860537190082645
+noisy_wsls_feedbackaware,Feedback-aware Noisy WSLS,simple behavioral strategy model,0.6528925619834711

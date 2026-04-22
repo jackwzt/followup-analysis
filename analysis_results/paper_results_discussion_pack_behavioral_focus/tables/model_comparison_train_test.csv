@@ -1,0 +1,6 @@
+"model","training_source","test_scope","test_n","test_top1_accuracy","test_brier","note"
+"NN direct MLP","real train participants","held-out participants",3040,0.625657894736842,0.226017157003374,"Strict participant-level test set"
+"NN direct GRU","real train participants","held-out participants",3040,0.654276315789474,0.212464656096017,"Strict participant-level test set"
+"Random p=0.5","none","held-out participants",3040,0.5,0.25,"Fixed random-choice baseline"
+"Bayes Model B real_train","real train participants","held-out real participants",3040,0.630921052631579,NA,"Pilot Stan evaluation: iter=1000 warmup=500 chains=4; group-level posterior mean parameters used on test participants"
+"Bayes Model B synthetic_rep1","NN synthetic train participants","held-out real participants",3040,0.6,NA,"Pilot Stan evaluation: iter=1000 warmup=500 chains=4; group-level posterior mean parameters used on test participants"

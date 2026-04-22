@@ -1,0 +1,14 @@
+analysis,mechanism,model,term,estimate,conf_low,conf_high,p_value,ci_crosses_zero,significant
+Switch after regret/loss,non-stickiness,switch_stay,prev_outcome_typeregret_loss,0.42781220825423444,0.3775763646836339,0.47804805182483495,1.5110819588507055e-62,FALSE,TRUE
+Partial feedback early-phase RU slope,non-stickiness,phase_uncertainty,RU slope partial early,0.25292773799871643,0.20266561689755522,0.3031898590998776,6.018602763058556e-23,FALSE,TRUE
+Partial feedback chosen-win predicts next switch,non-stickiness,partial_feedback_chosen_outcome,chosen_win_partial,-0.28664175142897275,-0.3879134054894773,-0.18537009736846824,2.8956512262801692e-8,FALSE,TRUE
+Full - Partial | relative uncertainty slope,non-stickiness,controlled_risky_choice,relative uncertainty slope,-8.083515817161386,-13.231438524615257,-2.935593109707514,0.002086144197626649,FALSE,TRUE
+Full feedback counterfactual regret predicts next switch,non-stickiness,full_feedback_counterfactual_regret,regret_binary,0.40827004151818574,0.13966243004093926,0.6768776529954322,0.002890951969569103,FALSE,TRUE
+Accept - Reject | risky-choice bias,non-stickiness,controlled_risky_choice,risky-choice bias,-0.053326884343560324,-0.09073596877943854,-0.0159177999076821,0.0052061720663336905,FALSE,TRUE
+Full feedback effect on switching,non-stickiness,switch_stay,feedback_typefull,-0.16394614577066538,-0.3092087263407982,-0.018683565200532548,0.02696018830489569,FALSE,TRUE
+Full - Partial | value slope,non-stickiness,controlled_risky_choice,value slope,-0.19166979367550388,-0.4135012888699398,0.03016170151893205,0.09035934165423144,TRUE,FALSE
+Full feedback early-phase RU slope,non-stickiness,phase_uncertainty,RU slope full early,-5.2647668124277605,-11.558696795803355,1.0291631709478342,0.10110769131706192,TRUE,FALSE
+Full - Partial | risky-choice bias,non-stickiness,controlled_risky_choice,risky-choice bias,-0.19421223070888186,-0.4631967788964416,0.07477231747867788,0.1570218085812343,TRUE,FALSE
+Full - Partial | value/total uncertainty slope,non-stickiness,controlled_risky_choice,value/total uncertainty slope,0.052360473386675814,-0.039077206111573885,0.1437981528849255,0.2617069230828692,TRUE,FALSE
+TP - NoTP | risky-choice bias,non-stickiness,controlled_risky_choice,risky-choice bias,0.016497452918348803,-0.020749238506762413,0.05374414434346002,0.3853226185274461,TRUE,FALSE
+Previous risky choice | stickiness control,stickiness control,controlled_risky_choice,stickiness control,0.20411449235397786,0.08014762500794025,0.32808135970001545,0.0012501322867027446,FALSE,TRUE
