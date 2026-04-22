@@ -1,0 +1,12 @@
+theme,discussion_use,citation_key,source_url
+Prospect theory and risk,Frame/risk-bias discussion,KahnemanTversky1979,https://www.econometricsociety.org/publications/econometrica/browse/1979/03/01/prospect-theory-analysis-decision-under-risk
+Choice framing,Accept/reject frame interpretation,TverskyKahneman1981,https://web.stanford.edu/~jlmcc/Presentations/tversky_kahneman_1981.pdf
+Prediction-error learning,Learning-rate interpretation,RescorlaWagner1972,https://psycnet.apa.org/record/1973-01307-001
+Reinforcement learning,Bandit and Q-learning model language,SuttonBarto2018,https://mitpress.ublish.com/book/reinforcement-learning-an-introduction-2
+Reinforcement learning in behavioral decisions,Experience-based human choice modeling,ErevRoth1998,https://www.hbs.edu/faculty/Pages/item.aspx?num=3641
+Bayesian bandit modeling,Human bandit model comparison,Steyvers2009,https://www.sciencedirect.com/science/article/pii/S0022249608001090
+Restless bandits and uncertainty,Feedback/uncertainty discussion,SpeekenbrinkKonstantinidis2015,https://discovery.ucl.ac.uk/id/eprint/1470745/
+Behavioral exploration,Directed/random exploration in humans,Wilson2014,https://pubmed.ncbi.nlm.nih.gov/25347535/
+Computational exploration algorithms,Uncertainty bonus vs sampling interpretation,Gershman2018,https://pubmed.ncbi.nlm.nih.gov/29289795/
+Speed-accuracy tradeoff,Behavioral interpretation of time-pressure effects,Wickelgren1977,https://www.sciencedirect.com/science/article/pii/0001691877900129
+Bayesian model comparison,LOO/WAIC interpretation,Vehtari2017,https://arxiv.org/abs/1507.04544

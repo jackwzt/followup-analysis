@@ -1,0 +1,3 @@
+model,elpd_loo,elpd_waic,n_obs
+Bayes Model B real_train,-8211.717457898792,-8207.664165541442,13440
+Bayes Model B synthetic_rep1,-9052.831181743439,-9051.143592608802,13440
